@@ -134,7 +134,7 @@
       "computedHash": "c42af0107540e71dfe9605eca51b5100d96730d0bddf51085fc0c9429e40083c"
     },
     "accessibility": {
-      "source": "affaan-m/everything-claude-code",
+      "source": "affaan-m/ecc",
       "sourceType": "github",
       "skillPath": "skills/accessibility/SKILL.md",
       "computedHash": "e7496684695f4ff94ebee6a951fd7622c79add4178225a2e3e80e090a8ac85f8"
@@ -254,7 +254,7 @@
       "computedHash": "6eed5598e3b89f02f38d01b6d5710511a05c4f97ad41f605976521ab4c3ebd1d"
     },
     "agent-architecture-audit": {
-      "source": "affaan-m/everything-claude-code",
+      "source": "affaan-m/ecc",
       "sourceType": "github",
       "skillPath": "skills/agent-architecture-audit/SKILL.md",
       "computedHash": "45bd28e8d750fe28fc068ad59cfb98c2e5e7e42ffc2ed07ddd4a40f9b8945db2"
@@ -374,7 +374,7 @@
       "computedHash": "486517a7c51d06d5610534eca11dfa79edd2d7b0cee3e8d65a70cd94c0671edb"
     },
     "agent-eval": {
-      "source": "affaan-m/everything-claude-code",
+      "source": "affaan-m/ecc",
       "sourceType": "github",
       "skillPath": "skills/agent-eval/SKILL.md",
       "computedHash": "743b7c3c3a9444e1a6ad3be4471c0ce2c60f9560a4613d4230a7af3ed3fc5f73"
@@ -410,7 +410,7 @@
       "computedHash": "b68b84ebdb5bb2d5d02c5731ef58fe593cbf9660742acdaea919a44f2dd7bf05"
     },
     "agent-harness-construction": {
-      "source": "affaan-m/everything-claude-code",
+      "source": "affaan-m/ecc",
       "sourceType": "github",
       "skillPath": "skills/agent-harness-construction/SKILL.md",
       "computedHash": "5601e5ab105717b62a249aa6875482d1865433dfd89e2d7fe25166df950e13ec"
@@ -428,7 +428,7 @@
       "computedHash": "03ff6b65394dbd13fa2c637e44063213f200f0cb694f2e8bca55ce7b3f30c590"
     },
     "agent-introspection-debugging": {
-      "source": "affaan-m/everything-claude-code",
+      "source": "affaan-m/ecc",
       "sourceType": "github",
       "skillPath": "skills/agent-introspection-debugging/SKILL.md",
       "computedHash": "f59e8cc712fb4434db63a2cceb687cd4b11aa36d083217f495ef6e79f6f1057a"
@@ -500,7 +500,7 @@
       "computedHash": "b1a9d3036150475449d54dd95bc9b4d0fd17009735a76a54878b287683e6c123"
     },
     "agent-payment-x402": {
-      "source": "affaan-m/everything-claude-code",
+      "source": "affaan-m/ecc",
       "sourceType": "github",
       "skillPath": "skills/agent-payment-x402/SKILL.md",
       "computedHash": "7e3cbe271420a117c42768c21e65792c9526d46c90ae5ab0f75f0db233b5f3d5"
@@ -656,7 +656,7 @@
       "computedHash": "b286ab51626f4ad7e35fca6a9b671651178c66ca1d1fe04432db03e5f6926031"
     },
     "agent-sort": {
-      "source": "affaan-m/everything-claude-code",
+      "source": "affaan-m/ecc",
       "sourceType": "github",
       "skillPath": "skills/agent-sort/SKILL.md",
       "computedHash": "1a48f9ad9ea5515dba0b5637ede187146ed9933ac33db19dc138237dbb55a22b"
@@ -806,7 +806,7 @@
       "computedHash": "96598a560124e5d86df4ef42fc3d97d9875ddcc66d4aff1d839e696a288c88e4"
     },
     "agentic-engineering": {
-      "source": "affaan-m/everything-claude-code",
+      "source": "affaan-m/ecc",
       "sourceType": "github",
       "skillPath": "skills/agentic-engineering/SKILL.md",
       "computedHash": "6437efa9eac379b2701001d596610adf1f37afa02b8309145c9462c8e3cf9eff"
@@ -818,19 +818,19 @@
       "computedHash": "7198892019217bbd5d73b6065293b181fa3af120cbab1f038748cfa92aa27083"
     },
     "agentic-os": {
-      "source": "affaan-m/everything-claude-code",
+      "source": "affaan-m/ecc",
       "sourceType": "github",
       "skillPath": "skills/agentic-os/SKILL.md",
       "computedHash": "1175f7090c550c5b91077d5c0b86fa665702dd5190bf09cf00a78cc78f0751f6"
     },
     "ai-first-engineering": {
-      "source": "affaan-m/everything-claude-code",
+      "source": "affaan-m/ecc",
       "sourceType": "github",
       "skillPath": "skills/ai-first-engineering/SKILL.md",
       "computedHash": "62b9568daf7bb5cbf649e55becec5739439e50c892b269c25dfe007d6a3cb54d"
     },
     "ai-regression-testing": {
-      "source": "affaan-m/everything-claude-code",
+      "source": "affaan-m/ecc",
       "sourceType": "github",
       "skillPath": "skills/ai-regression-testing/SKILL.md",
       "computedHash": "092a063807f6662b6d339eea6fa8564cb420bfbeb28fe99e9be4a0cf76c18e3a"
@@ -878,7 +878,7 @@
       "computedHash": "7ce6f319d1c293b419894eb37d7a4b3e412e77e51b0cff54fa925464d411812e"
     },
     "android-clean-architecture": {
-      "source": "affaan-m/everything-claude-code",
+      "source": "affaan-m/ecc",
       "sourceType": "github",
       "skillPath": "skills/android-clean-architecture/SKILL.md",
       "computedHash": "877b63dfe31ec4d864c0a09ead442029a236def32fd2a7fd374083a27b4fa5ba"
@@ -890,7 +890,7 @@
       "computedHash": "d93b695494c81c076a7c837007762f6e04b204ee19eccd7ff77969ff76835dfd"
     },
     "angular-developer": {
-      "source": "affaan-m/everything-claude-code",
+      "source": "affaan-m/ecc",
       "sourceType": "github",
       "skillPath": "skills/angular-developer/SKILL.md",
       "computedHash": "0fe05edd9ec3e00b9465a99653575ba8c1bb32cd67e716a09cd451f4421b93f7"
@@ -920,13 +920,13 @@
       "computedHash": "c7be14315fdbf134c0ac6d31392c4328dc6e5ab225c7c52f5ecb4549b4ed13ff"
     },
     "api-connector-builder": {
-      "source": "affaan-m/everything-claude-code",
+      "source": "affaan-m/ecc",
       "sourceType": "github",
       "skillPath": "skills/api-connector-builder/SKILL.md",
       "computedHash": "2d05205f45447c82261182c22f2a45ef555c987c4b914a29a0a617ff22501df2"
     },
     "api-design": {
-      "source": "affaan-m/everything-claude-code",
+      "source": "affaan-m/ecc",
       "sourceType": "github",
       "skillPath": "skills/api-design/SKILL.md",
       "computedHash": "718b7be2b2c0798d4da7f79d860cc2af8ca114f55b5ff508e93c2feb468d20c2"
@@ -980,7 +980,7 @@
       "computedHash": "345d53099dea044bca168ff9d975829f3e83c4e48e637fd050f7e0cdc43643b1"
     },
     "architecture-decision-records": {
-      "source": "affaan-m/everything-claude-code",
+      "source": "affaan-m/ecc",
       "sourceType": "github",
       "skillPath": "skills/architecture-decision-records/SKILL.md",
       "computedHash": "3108a62e2d812aad5f1d192281dc79d7c2891234ef179ca97cf79472286f5126"
@@ -992,7 +992,7 @@
       "computedHash": "ecb729710037e01080fd2c342f37d2c25b3597bec70b8d529f9604abd8ccc142"
     },
     "article-writing": {
-      "source": "affaan-m/everything-claude-code",
+      "source": "affaan-m/ecc",
       "sourceType": "github",
       "skillPath": "skills/article-writing/SKILL.md",
       "computedHash": "a527a9f0a6d47bb5006c5a112e34843c64cb9d5fba67d392aa380ae6d79476f1"
@@ -1058,19 +1058,19 @@
       "computedHash": "6d94dd28e61329add4ab0ef85b6a7e37896c1e2ffd55692f0b51d80463426dcc"
     },
     "automation-audit-ops": {
-      "source": "affaan-m/everything-claude-code",
+      "source": "affaan-m/ecc",
       "sourceType": "github",
       "skillPath": "skills/automation-audit-ops/SKILL.md",
       "computedHash": "a2edeab9884d11b8c3259bf6d5abb5633ef0e46810957768c35cd8447ff32383"
     },
     "autonomous-agent-harness": {
-      "source": "affaan-m/everything-claude-code",
+      "source": "affaan-m/ecc",
       "sourceType": "github",
       "skillPath": "skills/autonomous-agent-harness/SKILL.md",
       "computedHash": "cab742a3f82056923bb64fa1af711b42eb8575ab26e509b05affe8e44473f786"
     },
     "autonomous-loops": {
-      "source": "affaan-m/everything-claude-code",
+      "source": "affaan-m/ecc",
       "sourceType": "github",
       "skillPath": "skills/autonomous-loops/SKILL.md",
       "computedHash": "e0d25ec72158a0c8ef8d0dfa17a16bc4b146439cb51b3263476e59b563320935"
@@ -1112,7 +1112,7 @@
       "computedHash": "322449734af43c857d2e0df758c3be53bdad789c3cb49eaca58ee9181627a110"
     },
     "backend-patterns": {
-      "source": "affaan-m/everything-claude-code",
+      "source": "affaan-m/ecc",
       "sourceType": "github",
       "skillPath": "skills/backend-patterns/SKILL.md",
       "computedHash": "0f4cb3da46b8ce80176f9dbd241242e3033a999b32e952f2467faba4d38d69c9"
@@ -1136,13 +1136,13 @@
       "computedHash": "7ac3c6ae16f6dcd4bddd5b385389e09c6a788f63678b9865632e7ea1f740defa"
     },
     "benchmark": {
-      "source": "affaan-m/everything-claude-code",
+      "source": "affaan-m/ecc",
       "sourceType": "github",
       "skillPath": "skills/benchmark/SKILL.md",
       "computedHash": "6c2560a025dd28ca0e7d9c7c58c152a46ecd4d4e1ff301dd34f94dd9c55f0007"
     },
     "benchmark-optimization-loop": {
-      "source": "affaan-m/everything-claude-code",
+      "source": "affaan-m/ecc",
       "sourceType": "github",
       "skillPath": "skills/benchmark-optimization-loop/SKILL.md",
       "computedHash": "cab12d97886ea9c7113fa914b0ae2db9516aa0f8b3748a28cb1c7e1a989f2877"
@@ -1172,13 +1172,13 @@
       "computedHash": "643e344b9becc9c62a40cb9f5b9dbb62b1346e30a43cb69d073f921946b3f4db"
     },
     "blender-motion-state-inspection": {
-      "source": "affaan-m/everything-claude-code",
+      "source": "affaan-m/ecc",
       "sourceType": "github",
       "skillPath": "skills/blender-motion-state-inspection/SKILL.md",
       "computedHash": "fa8ad67d126755f151b59c3fc293ece190b93769397c1160145c3505f58e226b"
     },
     "blueprint": {
-      "source": "affaan-m/everything-claude-code",
+      "source": "affaan-m/ecc",
       "sourceType": "github",
       "skillPath": "skills/blueprint/SKILL.md",
       "computedHash": "b662737f0ae3e589b59f141d219d8cf837f68cdd078c0e860bd82f62392ba12d"
@@ -1232,7 +1232,7 @@
       "computedHash": "e48840db6ea772ceecdb68b4e50f8cc77e2534b7580aeaf4a6fe6ee7bd845d7d"
     },
     "brand-voice": {
-      "source": "affaan-m/everything-claude-code",
+      "source": "affaan-m/ecc",
       "sourceType": "github",
       "skillPath": "skills/brand-voice/SKILL.md",
       "computedHash": "a966bbb848ca73f1f4213c1ac68bef177e5c7e768150f0ce1152ff728e59c929"
@@ -1268,7 +1268,7 @@
       "computedHash": "f09bc8bf59e857e407fac8b60e453540ce8aef15b2f017ee55f4d920f5e4d445"
     },
     "browser-qa": {
-      "source": "affaan-m/everything-claude-code",
+      "source": "affaan-m/ecc",
       "sourceType": "github",
       "skillPath": "skills/browser-qa/SKILL.md",
       "computedHash": "5fa0d1495511ea20aa3a947251ec76be9892011aa6171937c4d7db958a516c8b"
@@ -1334,7 +1334,7 @@
       "computedHash": "1bd5587fb9d6ab9822cf6d943e28444e869a7dcdd8af6c60d7f09f012d314f48"
     },
     "bun-runtime": {
-      "source": "affaan-m/everything-claude-code",
+      "source": "affaan-m/ecc",
       "sourceType": "github",
       "skillPath": "skills/bun-runtime/SKILL.md",
       "computedHash": "bdac3d20723a536f7160ca2c08f369101b73e67a0f5f2a951910056716156c3c"
@@ -1358,7 +1358,7 @@
       "computedHash": "9ea28bd0d54390f89cf7edc3481369b53512115fc73644b9277a6e488ff15f26"
     },
     "canary-watch": {
-      "source": "affaan-m/everything-claude-code",
+      "source": "affaan-m/ecc",
       "sourceType": "github",
       "skillPath": "skills/canary-watch/SKILL.md",
       "computedHash": "c0af53d10afe4147f5ad88c66dc067dbe6919a01fd9b5fde5af1d11dd266f5f6"
@@ -1376,7 +1376,7 @@
       "computedHash": "00e8e9e919e39cb0739dbec41038c723bc644ba82f83787188d5a975887421ea"
     },
     "carrier-relationship-management": {
-      "source": "affaan-m/everything-claude-code",
+      "source": "affaan-m/ecc",
       "sourceType": "github",
       "skillPath": "skills/carrier-relationship-management/SKILL.md",
       "computedHash": "29220ae73e0f0e3d10d579266406f658889439b2d2b2db5ffdf2a3461883ed58"
@@ -1646,7 +1646,7 @@
       "computedHash": "0c15a908873a0f758388c6a931be8885cbb23773d2e41449b080a83a6e412ebe"
     },
     "cisco-ios-patterns": {
-      "source": "affaan-m/everything-claude-code",
+      "source": "affaan-m/ecc",
       "sourceType": "github",
       "skillPath": "skills/cisco-ios-patterns/SKILL.md",
       "computedHash": "2abbf859be7cbb92a308053d5dc5cddb2463c27033947cd85c7638640ae52b76"
@@ -1658,7 +1658,7 @@
       "computedHash": "b28431e8283dc1cdc96f4fb18da56a80b56619d8a6f80605a55d3f831e9c025b"
     },
     "ck": {
-      "source": "affaan-m/everything-claude-code",
+      "source": "affaan-m/ecc",
       "sourceType": "github",
       "skillPath": "skills/ck/SKILL.md",
       "computedHash": "da2c0946882104978b2f47e034eff9688d70653502bc0d89221566a7091f010d"
@@ -1676,7 +1676,7 @@
       "computedHash": "954ea4ccdb1aeb5c709f4b23961d4295a20c128b535ac4cbf33bf903f16d3fb4"
     },
     "claude-devfleet": {
-      "source": "affaan-m/everything-claude-code",
+      "source": "affaan-m/ecc",
       "sourceType": "github",
       "skillPath": "skills/claude-devfleet/SKILL.md",
       "computedHash": "897be769132403e9cd5eb4f0fa89e121942f73395b5608d669723d793003aee2"
@@ -1700,13 +1700,13 @@
       "computedHash": "8ac5b5dc1cc784f255f4ebde0c65d0185da4a7d6b02d8d38838be178b62cfd7a"
     },
     "click-path-audit": {
-      "source": "affaan-m/everything-claude-code",
+      "source": "affaan-m/ecc",
       "sourceType": "github",
       "skillPath": "skills/click-path-audit/SKILL.md",
       "computedHash": "5f0bc231505088769b8f73aa0455296b1cb2b877ec9c6c43fa4cf400d3a954a5"
     },
     "clickhouse-io": {
-      "source": "affaan-m/everything-claude-code",
+      "source": "affaan-m/ecc",
       "sourceType": "github",
       "skillPath": "skills/clickhouse-io/SKILL.md",
       "computedHash": "6a4559a335ba5ca0571a2002735d70497e11464c4cb7ba7c21a3306fb62f2160"
@@ -1766,13 +1766,13 @@
       "computedHash": "57ab3eba6fa596bc52d73ca7312afc2f389d9622714d25b2ab3d4bbf03dc293a"
     },
     "code-tour": {
-      "source": "affaan-m/everything-claude-code",
+      "source": "affaan-m/ecc",
       "sourceType": "github",
       "skillPath": "skills/code-tour/SKILL.md",
       "computedHash": "70688a93455d33eaa06d42414cc35b218fc5bf8a264ffbf41edec0f716517a2e"
     },
     "codebase-onboarding": {
-      "source": "affaan-m/everything-claude-code",
+      "source": "affaan-m/ecc",
       "sourceType": "github",
       "skillPath": "skills/codebase-onboarding/SKILL.md",
       "computedHash": "ab347207dc6d26c7489ba382aa25a1430c7d07321c75dbe69f2617f33ea3c893"
@@ -1796,7 +1796,7 @@
       "computedHash": "90f1f838b4f7db7c77790385c4b27b531532f506617beb71102660824de9805b"
     },
     "coding-standards": {
-      "source": "affaan-m/everything-claude-code",
+      "source": "affaan-m/ecc",
       "sourceType": "github",
       "skillPath": "skills/coding-standards/SKILL.md",
       "computedHash": "30be57d3bc2d6db11eea334d3d437b1c51b2a70156d041668b96b08cff0a1032"
@@ -1850,19 +1850,19 @@
       "computedHash": "9e15de4d3b5e9a44f500124e2d2f57ba7fd3f4134912d9caf155ff6975215e99"
     },
     "compose-multiplatform-patterns": {
-      "source": "affaan-m/everything-claude-code",
+      "source": "affaan-m/ecc",
       "sourceType": "github",
       "skillPath": "skills/compose-multiplatform-patterns/SKILL.md",
       "computedHash": "bb1c2a3397b144a0a5ac4f6c4bcb44514ec52a7020becd794eeceb62eee69b0d"
     },
     "configure-ecc": {
-      "source": "affaan-m/everything-claude-code",
+      "source": "affaan-m/ecc",
       "sourceType": "github",
       "skillPath": "skills/configure-ecc/SKILL.md",
       "computedHash": "a5cf4a9158d0947e6e26fca09f952f10b6bc4acae39fa728dc17b425312fb42f"
     },
     "connections-optimizer": {
-      "source": "affaan-m/everything-claude-code",
+      "source": "affaan-m/ecc",
       "sourceType": "github",
       "skillPath": "skills/connections-optimizer/SKILL.md",
       "computedHash": "5aedc167065ebef976b2495fe6b75a0b3f7f062404be6609cd33fee496acb1b1"
@@ -1892,13 +1892,13 @@
       "computedHash": "389dce9dc29a482c4294d9d8b7c1ef180666ebc1887d503c4bc52c306e6780b0"
     },
     "content-engine": {
-      "source": "affaan-m/everything-claude-code",
+      "source": "affaan-m/ecc",
       "sourceType": "github",
       "skillPath": "skills/content-engine/SKILL.md",
       "computedHash": "8984e63061607b98bea75f6d20ae197de9d126c34ce28a6573d2f773a9627480"
     },
     "content-hash-cache-pattern": {
-      "source": "affaan-m/everything-claude-code",
+      "source": "affaan-m/ecc",
       "sourceType": "github",
       "skillPath": "skills/content-hash-cache-pattern/SKILL.md",
       "computedHash": "3ab51ecf38f8d686d234641fc66583f2b8fd615da86eccc8c88efc0e2c94d6d6"
@@ -1910,7 +1910,7 @@
       "computedHash": "13824c129ab70874c57d766c2d844f8dac7a0b366845f108a73527c9d094c4f6"
     },
     "context-budget": {
-      "source": "affaan-m/everything-claude-code",
+      "source": "affaan-m/ecc",
       "sourceType": "github",
       "skillPath": "skills/context-budget/SKILL.md",
       "computedHash": "0808bad9af9fea43d51c8c07d6d437e697e43fcac44fd564e497265e19f43a88"
@@ -1928,19 +1928,19 @@
       "computedHash": "df67ded00f18bf31f65a782dbcdcbeaedc42b5aa65137784bb163abbad7c5952"
     },
     "continuous-agent-loop": {
-      "source": "affaan-m/everything-claude-code",
+      "source": "affaan-m/ecc",
       "sourceType": "github",
       "skillPath": "skills/continuous-agent-loop/SKILL.md",
       "computedHash": "9df7647ae3f0afd2c974545a90a5f787883b6243f56c52ceadcb083f5c3601c3"
     },
     "continuous-learning": {
-      "source": "affaan-m/everything-claude-code",
+      "source": "affaan-m/ecc",
       "sourceType": "github",
       "skillPath": "skills/continuous-learning/SKILL.md",
       "computedHash": "6f4476b9f7068a4fd109c1e96736125257e1ee4c31824e18be75a907444d9041"
     },
     "continuous-learning-v2": {
-      "source": "affaan-m/everything-claude-code",
+      "source": "affaan-m/ecc",
       "sourceType": "github",
       "skillPath": "skills/continuous-learning-v2/SKILL.md",
       "computedHash": "92d5f17501a9a41d41daff9499c09cf57798aaa9a4ddedc958400352160b44ac"
@@ -1964,7 +1964,7 @@
       "computedHash": "344dd6f0063f23e75e88651b9d3697a8f6cbc7289b44aafccbf7f1774703f60c"
     },
     "cost-aware-llm-pipeline": {
-      "source": "affaan-m/everything-claude-code",
+      "source": "affaan-m/ecc",
       "sourceType": "github",
       "skillPath": "skills/cost-aware-llm-pipeline/SKILL.md",
       "computedHash": "f50e4b9a3fe3c2c55d0f8141b933e0b9a44c1fab38c002fd4d90d52850d71f04"
@@ -2042,7 +2042,7 @@
       "computedHash": "d89d0d211a8a0fbda22274fa06a731ffd231405df798c548ededf387667511bf"
     },
     "cost-tracking": {
-      "source": "affaan-m/everything-claude-code",
+      "source": "affaan-m/ecc",
       "sourceType": "github",
       "skillPath": "skills/cost-tracking/SKILL.md",
       "computedHash": "a31b736e40ce06414411cd8473789a95c52411173b6786f5ce9ed819c1178634"
@@ -2054,7 +2054,7 @@
       "computedHash": "f044eba5db7ec564f350a146bf4094ae1b730b52088705ddf181156258f684ae"
     },
     "council": {
-      "source": "affaan-m/everything-claude-code",
+      "source": "affaan-m/ecc",
       "sourceType": "github",
       "skillPath": "skills/council/SKILL.md",
       "computedHash": "633c474bdb57d7df0c5cf30f4e1952974cdfd7d5ea3c9ec3f3d330b21c80c5ac"
@@ -2066,7 +2066,7 @@
       "computedHash": "ea5b9a4adb286bc7698dd7aa115897ac259211544afeeef29e85c3e86feda5e6"
     },
     "cpp-coding-standards": {
-      "source": "affaan-m/everything-claude-code",
+      "source": "affaan-m/ecc",
       "sourceType": "github",
       "skillPath": "skills/cpp-coding-standards/SKILL.md",
       "computedHash": "46787c93ed565e48ab670ddbf8204fd144437e66ee9246fa0c651aa7a1f5bf45"
@@ -2078,7 +2078,7 @@
       "computedHash": "a5632d28a479fe433c7fd9ab98903b9cd010926b3ddd73785ff0325d0277dbe6"
     },
     "cpp-testing": {
-      "source": "affaan-m/everything-claude-code",
+      "source": "affaan-m/ecc",
       "sourceType": "github",
       "skillPath": "skills/cpp-testing/SKILL.md",
       "computedHash": "e0050751df5d5a963019856a234aa9adf4aabc244795799ba2afeb72e5608250"
@@ -2198,7 +2198,7 @@
       "computedHash": "3b7a2c37f19778e2cb1eaf45eab7d3f0ba7d7d4c21a50f96e69bc64907cb8413"
     },
     "crosspost": {
-      "source": "affaan-m/everything-claude-code",
+      "source": "affaan-m/ecc",
       "sourceType": "github",
       "skillPath": "skills/crosspost/SKILL.md",
       "computedHash": "d3595bf9b29dd21e2ab57070d52fa78a434044fb79565e12a46e5ef37ab305e6"
@@ -2216,13 +2216,13 @@
       "computedHash": "90bd8e86b9c139379d225f4692b4e9deb588db680055439dc3b463833ef6adfb"
     },
     "csharp-testing": {
-      "source": "affaan-m/everything-claude-code",
+      "source": "affaan-m/ecc",
       "sourceType": "github",
       "skillPath": "skills/csharp-testing/SKILL.md",
       "computedHash": "904f0b2991ac644504bf8ca8cf4c3907a488b17439943f3e922f62ae8bae7b46"
     },
     "customer-billing-ops": {
-      "source": "affaan-m/everything-claude-code",
+      "source": "affaan-m/ecc",
       "sourceType": "github",
       "skillPath": "skills/customer-billing-ops/SKILL.md",
       "computedHash": "fc971a2ec8a29a5ce6df316f03d16e6f55007dffb1cbea40686e0ba038bc4a6a"
@@ -2234,7 +2234,7 @@
       "computedHash": "628dcedb189ccccc08e7eaf12d884bbc7e43f8b2576f0f3143ed0a17fd40cc1f"
     },
     "customs-trade-compliance": {
-      "source": "affaan-m/everything-claude-code",
+      "source": "affaan-m/ecc",
       "sourceType": "github",
       "skillPath": "skills/customs-trade-compliance/SKILL.md",
       "computedHash": "05196249a0a8611195deb87255a86e56b01a6f1bd094b063361a2aab2a4a2f8e"
@@ -2246,13 +2246,13 @@
       "computedHash": "441d424185c4a5b3d3752c70a8fea55c0b9a82933527ff3715a1423c33533627"
     },
     "dart-flutter-patterns": {
-      "source": "affaan-m/everything-claude-code",
+      "source": "affaan-m/ecc",
       "sourceType": "github",
       "skillPath": "skills/dart-flutter-patterns/SKILL.md",
       "computedHash": "51e134cca64f3364eac265057d78ce99f857de79b6e2210895d4ea71ef31da4e"
     },
     "dashboard-builder": {
-      "source": "affaan-m/everything-claude-code",
+      "source": "affaan-m/ecc",
       "sourceType": "github",
       "skillPath": "skills/dashboard-builder/SKILL.md",
       "computedHash": "91dabb9c640500366ca558cb1935764ac67304ca632663ac37a84329c329df99"
@@ -2264,13 +2264,13 @@
       "computedHash": "b5c4bd9d2f15e3e502a6e933fb19431b253a1f710a3d495998dbfc152178c388"
     },
     "data-scraper-agent": {
-      "source": "affaan-m/everything-claude-code",
+      "source": "affaan-m/ecc",
       "sourceType": "github",
       "skillPath": "skills/data-scraper-agent/SKILL.md",
       "computedHash": "83165ee8a3fe5f80c08b80815abdd7074c3887a6af5a229449ce8bb6356e5fd7"
     },
     "data-throughput-accelerator": {
-      "source": "affaan-m/everything-claude-code",
+      "source": "affaan-m/ecc",
       "sourceType": "github",
       "skillPath": "skills/data-throughput-accelerator/SKILL.md",
       "computedHash": "011216e86ef3c716497c9fdb478180198f153e70e97f8f10f262b01582638b1d"
@@ -2282,7 +2282,7 @@
       "computedHash": "898d280f60eeb5372585192f2b16de0805d0c0e93c3726c96262c3d8e1f341dd"
     },
     "database-migrations": {
-      "source": "affaan-m/everything-claude-code",
+      "source": "affaan-m/ecc",
       "sourceType": "github",
       "skillPath": "skills/database-migrations/SKILL.md",
       "computedHash": "b2b297fad4b0d08c5bc931b8bca2418ca40be10eef566299c07a602db9e517c4"
@@ -2348,7 +2348,7 @@
       "computedHash": "4e8797591ca041f0566c2f121a1645b072511bf2cbe06001e9c296f4c5098fcf"
     },
     "deep-research": {
-      "source": "affaan-m/everything-claude-code",
+      "source": "affaan-m/ecc",
       "sourceType": "github",
       "skillPath": "skills/deep-research/SKILL.md",
       "computedHash": "ddacb75aee8268f2b9eb90320671af1db1518c4e9c4cc49f3edbff715ede85d3"
@@ -2366,7 +2366,7 @@
       "computedHash": "e178a6c21541ce308df8a392d23bfc16ed2fd8886a8ba4c030d68b4cfc394c34"
     },
     "defi-amm-security": {
-      "source": "affaan-m/everything-claude-code",
+      "source": "affaan-m/ecc",
       "sourceType": "github",
       "skillPath": "skills/defi-amm-security/SKILL.md",
       "computedHash": "ebca44c0c27bbe9359765d73464a1007898c5d79957ce5d948a4bbb7e6e569ea"
@@ -2384,7 +2384,7 @@
       "computedHash": "b0860f076f12fb7fa9cbaac20a871196f1b9d634e0928b0c0213c7dc960810a0"
     },
     "deployment-patterns": {
-      "source": "affaan-m/everything-claude-code",
+      "source": "affaan-m/ecc",
       "sourceType": "github",
       "skillPath": "skills/deployment-patterns/SKILL.md",
       "computedHash": "99f83de44e287fa486828d87e0f2083e1aee7ea47b8df5768ee9786c6cda57c4"
@@ -2396,7 +2396,7 @@
       "computedHash": "4048a167be9fcaf8772acc4c151d4adea798536b274c45b8818a655f89a48d59"
     },
     "design-system": {
-      "source": "affaan-m/everything-claude-code",
+      "source": "affaan-m/ecc",
       "sourceType": "github",
       "skillPath": "skills/design-system/SKILL.md",
       "computedHash": "e94439a0e2704d3802c2c5b393444a65afd2a5e0f2b0809e5ec9189452f4734b"
@@ -2486,7 +2486,7 @@
       "computedHash": "e21044ae7496fc285f1df9ff3fb518a3a20bea6f5216c1f59f4987e12c769a0a"
     },
     "django-celery": {
-      "source": "affaan-m/everything-claude-code",
+      "source": "affaan-m/ecc",
       "sourceType": "github",
       "skillPath": "skills/django-celery/SKILL.md",
       "computedHash": "d62fb06e6995ded296aa06e4f9d89cd62da36c2fb9c2bb84b35623a53b5cd646"
@@ -2498,31 +2498,31 @@
       "computedHash": "f64e47ac397e308dde77144592cfc2fc2b60815c7ee653ef8bdc8cf860de3c27"
     },
     "django-patterns": {
-      "source": "affaan-m/everything-claude-code",
+      "source": "affaan-m/ecc",
       "sourceType": "github",
       "skillPath": "skills/django-patterns/SKILL.md",
       "computedHash": "b1477691a59a4ed4cc4fa2180cec057537857455c537ad6d87f6c68340ab07f3"
     },
     "django-security": {
-      "source": "affaan-m/everything-claude-code",
+      "source": "affaan-m/ecc",
       "sourceType": "github",
       "skillPath": "skills/django-security/SKILL.md",
       "computedHash": "9c84b8260f3829f8930a472bca1cd4978f97af94d3639cca8ab3cd5578df674a"
     },
     "django-tdd": {
-      "source": "affaan-m/everything-claude-code",
+      "source": "affaan-m/ecc",
       "sourceType": "github",
       "skillPath": "skills/django-tdd/SKILL.md",
       "computedHash": "128b1f7d37200c0f75f9e027e6012a3649beafde6cdc74bdc9e3b91065170f98"
     },
     "django-verification": {
-      "source": "affaan-m/everything-claude-code",
+      "source": "affaan-m/ecc",
       "sourceType": "github",
       "skillPath": "skills/django-verification/SKILL.md",
       "computedHash": "f890c0a4ca713dd8876d328677cc6078be9c0b6b745b5fc67eb5444fdae3ff90"
     },
     "dmux-workflows": {
-      "source": "affaan-m/everything-claude-code",
+      "source": "affaan-m/ecc",
       "sourceType": "github",
       "skillPath": "skills/dmux-workflows/SKILL.md",
       "computedHash": "a904e0a9955dc4513c4a06722d39eab5ea74eafee866a7542b8b2f2799ae48be"
@@ -2576,7 +2576,7 @@
       "computedHash": "e6ff122ca3d6b7f07b53903a74b9a42779ad76fa11ba12d64cc3a9a11d8ab489"
     },
     "docker-patterns": {
-      "source": "affaan-m/everything-claude-code",
+      "source": "affaan-m/ecc",
       "sourceType": "github",
       "skillPath": "skills/docker-patterns/SKILL.md",
       "computedHash": "2750c564c7b600fbbfd44de2c693955c677c18c872d06019fa896ab770c69ed9"
@@ -2594,7 +2594,7 @@
       "computedHash": "ec23f10fbd7db4456df3300700eb814474c3a649c1af97a4f76dff93a91f6632"
     },
     "documentation-lookup": {
-      "source": "affaan-m/everything-claude-code",
+      "source": "affaan-m/ecc",
       "sourceType": "github",
       "skillPath": "skills/documentation-lookup/SKILL.md",
       "computedHash": "7191a5a017a44a461d9bd0002b4ae85b69ff60858745a18a9b27b4aebf9ac551"
@@ -2624,7 +2624,7 @@
       "computedHash": "ceb0245bce4c20ad0760d7f589311e3ac2cdf110636a1581fa6d3018c7b27890"
     },
     "dotnet-patterns": {
-      "source": "affaan-m/everything-claude-code",
+      "source": "affaan-m/ecc",
       "sourceType": "github",
       "skillPath": "skills/dotnet-patterns/SKILL.md",
       "computedHash": "9a4a413ca664d2e6112a75855d6dd11453fd02a375f36b09bee54bea7417112c"
@@ -2642,7 +2642,7 @@
       "computedHash": "8fad8d53ed431768a211f1533b23fb08e5eeafbea66a5dd64066571868cb8d38"
     },
     "e2e-testing": {
-      "source": "affaan-m/everything-claude-code",
+      "source": "affaan-m/ecc",
       "sourceType": "github",
       "skillPath": "skills/e2e-testing/SKILL.md",
       "computedHash": "b66c5a5415f07b48472049d5301e8327fe39cb23b706f7969668a2d823f62d11"
@@ -2660,13 +2660,13 @@
       "computedHash": "593f673906e2b8e09046f6397dce5b62d962d20eb878da19ecbd719d7b6f2c69"
     },
     "ecc-guide": {
-      "source": "affaan-m/everything-claude-code",
+      "source": "affaan-m/ecc",
       "sourceType": "github",
       "skillPath": "skills/ecc-guide/SKILL.md",
       "computedHash": "4a4129656bcbe8cc1e14dbcc6525545047bb2acc6ff1a5eb72f139dbeb8866c7"
     },
     "ecc-tools-cost-audit": {
-      "source": "affaan-m/everything-claude-code",
+      "source": "affaan-m/ecc",
       "sourceType": "github",
       "skillPath": "skills/ecc-tools-cost-audit/SKILL.md",
       "computedHash": "5c434e5483a5d80fd7ecc70d5315e9a4d1c2e96d4d607ff981ee148b71b1ada2"
@@ -2684,7 +2684,7 @@
       "computedHash": "ec0650df83cb90b209f26e93439998f7c4802ab44abcc28423c1997bdb69d7ab"
     },
     "email-ops": {
-      "source": "affaan-m/everything-claude-code",
+      "source": "affaan-m/ecc",
       "sourceType": "github",
       "skillPath": "skills/email-ops/SKILL.md",
       "computedHash": "ba350b3fa13176e2fbc5b153add127a76740cad3f41466581094e8c85967cb2e"
@@ -2708,7 +2708,7 @@
       "computedHash": "c6e7181821ce272034893497fa002ffdfc8e3ea898cecccfbfb1658e186cdc85"
     },
     "energy-procurement": {
-      "source": "affaan-m/everything-claude-code",
+      "source": "affaan-m/ecc",
       "sourceType": "github",
       "skillPath": "skills/energy-procurement/SKILL.md",
       "computedHash": "05f8c2fa8e45c550bb021bc1b1edcb4508567a85204eb4d0b7bff7cbea0c8631"
@@ -2768,7 +2768,7 @@
       "computedHash": "0bad28cdb9f830db68e1d095c2a802093dc9eb48d37a112550ee6e9357832e44"
     },
     "enterprise-agent-ops": {
-      "source": "affaan-m/everything-claude-code",
+      "source": "affaan-m/ecc",
       "sourceType": "github",
       "skillPath": "skills/enterprise-agent-ops/SKILL.md",
       "computedHash": "678cb4c12252f3c5df7cda046e40e12e94cd2ebd5cee6c633b0a9ff27824fb60"
@@ -2780,7 +2780,7 @@
       "computedHash": "abedaf2870a0cb51190acf013a522fbdf71cb397d547a63cf5b957ea54c7627c"
     },
     "error-handling": {
-      "source": "affaan-m/everything-claude-code",
+      "source": "affaan-m/ecc",
       "sourceType": "github",
       "skillPath": "skills/error-handling/SKILL.md",
       "computedHash": "5635497bb97c4ae7a47f2ca152f08327fa63c1c0f59da31d0bc1362c4e2cf82f"
@@ -2798,31 +2798,31 @@
       "computedHash": "9d5af61cef1b8ef33958737f32fc3f2c0632c03ce54e414286a9aa06f9d51513"
     },
     "eval-harness": {
-      "source": "affaan-m/everything-claude-code",
+      "source": "affaan-m/ecc",
       "sourceType": "github",
       "skillPath": "skills/eval-harness/SKILL.md",
       "computedHash": "74550bf0080223fa5547c4da45279660df907f726fa8247de85ca75733c7fe79"
     },
     "everything-claude-code": {
-      "source": "affaan-m/everything-claude-code",
+      "source": "affaan-m/ecc",
       "sourceType": "github",
       "skillPath": ".agents/skills/everything-claude-code/SKILL.md",
       "computedHash": "1fed753cecf740428b032b34e62d48797aca8d7b9ba789e0b349f6e9c6728030"
     },
     "everything-claude-code-conventions": {
-      "source": "affaan-m/everything-claude-code",
+      "source": "affaan-m/ecc",
       "sourceType": "github",
       "skillPath": ".claude/skills/everything-claude-code/SKILL.md",
       "computedHash": "3d259d2c36a18bb0f9ac2b65018a8962dea8d0aca71f4f0b7b9c59a0e2b54779"
     },
     "evm-token-decimals": {
-      "source": "affaan-m/everything-claude-code",
+      "source": "affaan-m/ecc",
       "sourceType": "github",
       "skillPath": "skills/evm-token-decimals/SKILL.md",
       "computedHash": "9302dfc38d1597ba823451995f57c087b6133f2b90276e8bbe8f3cfa4370aa46"
     },
     "exa-search": {
-      "source": "affaan-m/everything-claude-code",
+      "source": "affaan-m/ecc",
       "sourceType": "github",
       "skillPath": "skills/exa-search/SKILL.md",
       "computedHash": "7886591130a438cd4ded2dd4eb0186581e71e74ea5187869045be16804b3c515"
@@ -2840,7 +2840,7 @@
       "computedHash": "326130bd658c9643bb2b39892c2656bef606d4a79672a41b17aa0388e9126e89"
     },
     "fal-ai-media": {
-      "source": "affaan-m/everything-claude-code",
+      "source": "affaan-m/ecc",
       "sourceType": "github",
       "skillPath": "skills/fal-ai-media/SKILL.md",
       "computedHash": "63b802d0d0c0a0b612b79ec8aa492802eea1c83b37fca85427629d0b457cbd8a"
@@ -2852,7 +2852,7 @@
       "computedHash": "eb70cfcb3a06badfbdf51262ecb31b868a983963b9d6654e02856752828b312f"
     },
     "fastapi-patterns": {
-      "source": "affaan-m/everything-claude-code",
+      "source": "affaan-m/ecc",
       "sourceType": "github",
       "skillPath": "skills/fastapi-patterns/SKILL.md",
       "computedHash": "ee1afe686391e7bbec4519730a7f5dfe2a0ed60cd5583409a47f93b01802efde"
@@ -2882,7 +2882,7 @@
       "computedHash": "9911abe5e1779a3094d9a04ba8dcb279f9fc285c25c4849f6a77ea38469f62b1"
     },
     "finance-billing-ops": {
-      "source": "affaan-m/everything-claude-code",
+      "source": "affaan-m/ecc",
       "sourceType": "github",
       "skillPath": "skills/finance-billing-ops/SKILL.md",
       "computedHash": "519ae2cd9c26ab957fd86deb3b5d4d0079c740f4d3a29044132817b1b18ea9dd"
@@ -2936,7 +2936,7 @@
       "computedHash": "3a8e9c8149f69de57acbbe3ce8f4c9b1a280289e1ad52f1cd4f52625d3f387f0"
     },
     "flox-environments": {
-      "source": "affaan-m/everything-claude-code",
+      "source": "affaan-m/ecc",
       "sourceType": "github",
       "skillPath": "skills/flox-environments/SKILL.md",
       "computedHash": "64af7518f389d706aa41738e41fd4fa17cc4fab29192ef988772a31fcb03d561"
@@ -2960,7 +2960,7 @@
       "computedHash": "b77621cd8a3f183e861f09d0e8ac98dd091ac1df5cf9712ac5a00cd16ddfc89a"
     },
     "flutter-dart-code-review": {
-      "source": "affaan-m/everything-claude-code",
+      "source": "affaan-m/ecc",
       "sourceType": "github",
       "skillPath": "skills/flutter-dart-code-review/SKILL.md",
       "computedHash": "2b2cafafc1382ec7c79485f3609ec89baae4785a154585794575d21048b5d02c"
@@ -2972,7 +2972,7 @@
       "computedHash": "c7849f39cf34d91999f573b8ad39315dd68c7717bcd38c42b5e49cd83785d9c1"
     },
     "foundation-models-on-device": {
-      "source": "affaan-m/everything-claude-code",
+      "source": "affaan-m/ecc",
       "sourceType": "github",
       "skillPath": "skills/foundation-models-on-device/SKILL.md",
       "computedHash": "0f750ac04c1325572749ee9270aad7f4f56852f6919ae18e719e15768ed97d26"
@@ -2990,7 +2990,7 @@
       "computedHash": "3fd8ab504b9b6d791b307baed7a87f49b455fc084ff367772c7418b8a57ce56d"
     },
     "frontend-a11y": {
-      "source": "affaan-m/everything-claude-code",
+      "source": "affaan-m/ecc",
       "sourceType": "github",
       "skillPath": "skills/frontend-a11y/SKILL.md",
       "computedHash": "3afc721c562217606e876155689dbbfa90afd84f686fb47f5f0bdcf387a3eb2f"
@@ -3002,25 +3002,25 @@
       "computedHash": "063a0e6448123cd359ad0044cc46b0e490cc7964d45ef4bb9fd842bd2ffbca67"
     },
     "frontend-design-direction": {
-      "source": "affaan-m/everything-claude-code",
+      "source": "affaan-m/ecc",
       "sourceType": "github",
       "skillPath": "skills/frontend-design-direction/SKILL.md",
       "computedHash": "5a6eb2922ac728866d303de3e92d675f2ed6cb54ca651b30e857a237b0f87a27"
     },
     "frontend-patterns": {
-      "source": "affaan-m/everything-claude-code",
+      "source": "affaan-m/ecc",
       "sourceType": "github",
       "skillPath": "skills/frontend-patterns/SKILL.md",
       "computedHash": "b06e633e783acfc364cf08cf44ee0fe48ece7e8c727457b188046e5ece25836f"
     },
     "frontend-slides": {
-      "source": "affaan-m/everything-claude-code",
+      "source": "affaan-m/ecc",
       "sourceType": "github",
       "skillPath": "skills/frontend-slides/SKILL.md",
       "computedHash": "2ae9014ecb81e90111de53838d903a4ff216900e74e67ceb884b984ac9519260"
     },
     "fsharp-testing": {
-      "source": "affaan-m/everything-claude-code",
+      "source": "affaan-m/ecc",
       "sourceType": "github",
       "skillPath": "skills/fsharp-testing/SKILL.md",
       "computedHash": "21d58b227a2f396369a89de1e5bc525340f3b8243bea1478ae36cb8c6abc6eb7"
@@ -3074,13 +3074,13 @@
       "computedHash": "5310da9a7910ae7e9d119abb7377b6213b1dc7767e4aacd818b8fdb60abab36f"
     },
     "gan-style-harness": {
-      "source": "affaan-m/everything-claude-code",
+      "source": "affaan-m/ecc",
       "sourceType": "github",
       "skillPath": "skills/gan-style-harness/SKILL.md",
       "computedHash": "dc116e1d96062c5d5a1d79e96e54fac8ff986b4be8eaa213c8c3f8cda161499e"
     },
     "gateguard": {
-      "source": "affaan-m/everything-claude-code",
+      "source": "affaan-m/ecc",
       "sourceType": "github",
       "skillPath": "skills/gateguard/SKILL.md",
       "computedHash": "6f95e3b898b9ed06a59a528bd399cb411aaea59a19d27a7906af301d8fdf39e1"
@@ -3134,7 +3134,7 @@
       "computedHash": "954c989c67b3812b30d1139b90013f089adff42d90867c0c0ccf8929769a0235"
     },
     "gget": {
-      "source": "affaan-m/everything-claude-code",
+      "source": "affaan-m/ecc",
       "sourceType": "github",
       "skillPath": "skills/scientific-pkg-gget/SKILL.md",
       "computedHash": "0d7be171a77b45cd7ee89e34772d5beaed66cd3fed43d601ee57e71ae18e3f45"
@@ -3170,7 +3170,7 @@
       "computedHash": "f7f6194d3484f773fd1cd30dddbefbfe8d1a1d15b8986d82940bb2e0efd07648"
     },
     "git-workflow": {
-      "source": "affaan-m/everything-claude-code",
+      "source": "affaan-m/ecc",
       "sourceType": "github",
       "skillPath": "skills/git-workflow/SKILL.md",
       "computedHash": "39fe09042938edf9e2ae7e985c383f0c65d872a630f4f50a600b0a8efdd8deb4"
@@ -3212,7 +3212,7 @@
       "computedHash": "7d6b2eda19e9effeeacd59c5d1942a8f37cdd7c0b53975c9caa5719909207f88"
     },
     "github-ops": {
-      "source": "affaan-m/everything-claude-code",
+      "source": "affaan-m/ecc",
       "sourceType": "github",
       "skillPath": "skills/github-ops/SKILL.md",
       "computedHash": "8ab8c4050fc1d15e3bd1852deb33b6958ab605f68622ece949c29cd5fd21644d"
@@ -3260,7 +3260,7 @@
       "computedHash": "158c5103bb11b13c3abf9cc7b41675e98558af5e0fc1f0df3a6eb742b2389688"
     },
     "golang-patterns": {
-      "source": "affaan-m/everything-claude-code",
+      "source": "affaan-m/ecc",
       "sourceType": "github",
       "skillPath": "skills/golang-patterns/SKILL.md",
       "computedHash": "67c25e95cec3f3166c2efefd5f4502863a1246c6f742b8cbcd2e2864d2a8182a"
@@ -3272,13 +3272,13 @@
       "computedHash": "12b4cac8f65228f82cbc26f0da9232aba87ffa45ccd01afa3998fb8ec61dc288"
     },
     "golang-testing": {
-      "source": "affaan-m/everything-claude-code",
+      "source": "affaan-m/ecc",
       "sourceType": "github",
       "skillPath": "skills/golang-testing/SKILL.md",
       "computedHash": "db6e910031d9c289f91697cf2397b8a3f717c6fdeae7a115e811a32544d99e11"
     },
     "google-workspace-ops": {
-      "source": "affaan-m/everything-claude-code",
+      "source": "affaan-m/ecc",
       "sourceType": "github",
       "skillPath": "skills/google-workspace-ops/SKILL.md",
       "computedHash": "bfd2c0fb3baac4fa06e07851234356033b700dd76719fab0f8cd2db7a2f0a7a6"
@@ -3320,25 +3320,25 @@
       "computedHash": "5ae4711d431c4ec5031a74c87f91f5d4c525cce43bbda2865cccd1001e6aa738"
     },
     "healthcare-cdss-patterns": {
-      "source": "affaan-m/everything-claude-code",
+      "source": "affaan-m/ecc",
       "sourceType": "github",
       "skillPath": "skills/healthcare-cdss-patterns/SKILL.md",
       "computedHash": "832ee3f1271719b20289c8cab770a50f47c5a2e12c1b35157c6e4f6e6ffae81d"
     },
     "healthcare-emr-patterns": {
-      "source": "affaan-m/everything-claude-code",
+      "source": "affaan-m/ecc",
       "sourceType": "github",
       "skillPath": "skills/healthcare-emr-patterns/SKILL.md",
       "computedHash": "4e122b9f74a3fda840f3484ba9871c80b6de85a0749b581c5c7a014d4e3f0aa4"
     },
     "healthcare-eval-harness": {
-      "source": "affaan-m/everything-claude-code",
+      "source": "affaan-m/ecc",
       "sourceType": "github",
       "skillPath": "skills/healthcare-eval-harness/SKILL.md",
       "computedHash": "2aec62fca087d4c1a017ebf330dea8a7bf45332767f47db42a407faa58d7c73e"
     },
     "healthcare-phi-compliance": {
-      "source": "affaan-m/everything-claude-code",
+      "source": "affaan-m/ecc",
       "sourceType": "github",
       "skillPath": "skills/healthcare-phi-compliance/SKILL.md",
       "computedHash": "17752a04b4206e5b991b42fe6810842514de0136459a2b52ff1ddfba93a80992"
@@ -3356,7 +3356,7 @@
       "computedHash": "edbe930ca2bed173851ae041003170791adeddf978de5b4d07c9eb821a087135"
     },
     "hermes-imports": {
-      "source": "affaan-m/everything-claude-code",
+      "source": "affaan-m/ecc",
       "sourceType": "github",
       "skillPath": "skills/hermes-imports/SKILL.md",
       "computedHash": "f5bc078a5fb9bb8f068af23717bfae3dc72f3a43523dc2e07e706e41d00bdd25"
@@ -3368,13 +3368,13 @@
       "computedHash": "f9b4978cd46f404a90c75a6ad00c561d738d17b8f48083f074415d1749ffd5e3"
     },
     "hexagonal-architecture": {
-      "source": "affaan-m/everything-claude-code",
+      "source": "affaan-m/ecc",
       "sourceType": "github",
       "skillPath": "skills/hexagonal-architecture/SKILL.md",
       "computedHash": "079f825ab203e42b8a5acbefb2ba50536718e1ec31d100b9521660ba0af749dd"
     },
     "hipaa-compliance": {
-      "source": "affaan-m/everything-claude-code",
+      "source": "affaan-m/ecc",
       "sourceType": "github",
       "skillPath": "skills/hipaa-compliance/SKILL.md",
       "computedHash": "f0cef2be6104222e7b43810d3e93f407bd1a42dda41bdec80ba7aef882e8afe8"
@@ -3398,37 +3398,37 @@
       "computedHash": "f44d9b262475ac67ce8aa9e929ca819cbae8638e7a4e568e7601c3cb9e6c0f09"
     },
     "homelab-network-readiness": {
-      "source": "affaan-m/everything-claude-code",
+      "source": "affaan-m/ecc",
       "sourceType": "github",
       "skillPath": "skills/homelab-network-readiness/SKILL.md",
       "computedHash": "e48fd085a2bfa40dff734321446d253edc26aa86264d778f03f39e088ebd62b4"
     },
     "homelab-network-setup": {
-      "source": "affaan-m/everything-claude-code",
+      "source": "affaan-m/ecc",
       "sourceType": "github",
       "skillPath": "skills/homelab-network-setup/SKILL.md",
       "computedHash": "f0add74dbf34965c2d2c64cf6880e4f9fd59fe4e0057dac31031f6ed602635a2"
     },
     "homelab-pihole-dns": {
-      "source": "affaan-m/everything-claude-code",
+      "source": "affaan-m/ecc",
       "sourceType": "github",
       "skillPath": "skills/homelab-pihole-dns/SKILL.md",
       "computedHash": "a73450073f16aee0e8f92739057dadd1a7aacc81b4c12c010ede704a718317ec"
     },
     "homelab-vlan-segmentation": {
-      "source": "affaan-m/everything-claude-code",
+      "source": "affaan-m/ecc",
       "sourceType": "github",
       "skillPath": "skills/homelab-vlan-segmentation/SKILL.md",
       "computedHash": "6fe8d39148d007de01f32a4301fe6cf76ca8885c70c190de1db29ce6092de99e"
     },
     "homelab-wireguard-vpn": {
-      "source": "affaan-m/everything-claude-code",
+      "source": "affaan-m/ecc",
       "sourceType": "github",
       "skillPath": "skills/homelab-wireguard-vpn/SKILL.md",
       "computedHash": "adf5bf16231c4a87e88651fe5de288491d7d390517108e6f8b80cab34002780c"
     },
     "hookify-rules": {
-      "source": "affaan-m/everything-claude-code",
+      "source": "affaan-m/ecc",
       "sourceType": "github",
       "skillPath": "skills/hookify-rules/SKILL.md",
       "computedHash": "daf3d4ef51f03ec60da2d7df7dac0c4e7523ac43d8ec722e9548e4c728a7f9e6"
@@ -3518,25 +3518,25 @@
       "computedHash": "f7c59685b54ed2d8e6cd3b4ba5a5a78e73005d2c952ef824c9a74cf50a2e10d8"
     },
     "inventory-demand-planning": {
-      "source": "affaan-m/everything-claude-code",
+      "source": "affaan-m/ecc",
       "sourceType": "github",
       "skillPath": "skills/inventory-demand-planning/SKILL.md",
       "computedHash": "61ab6d65a9beeae22d7140034c77cd2fa08ffcf2b0fb794b98a1be20b44d2f82"
     },
     "investor-materials": {
-      "source": "affaan-m/everything-claude-code",
+      "source": "affaan-m/ecc",
       "sourceType": "github",
       "skillPath": "skills/investor-materials/SKILL.md",
       "computedHash": "ad93531861fb7d98214a4c52facd1b460256247184051747ed6e77fed2eefed5"
     },
     "investor-outreach": {
-      "source": "affaan-m/everything-claude-code",
+      "source": "affaan-m/ecc",
       "sourceType": "github",
       "skillPath": "skills/investor-outreach/SKILL.md",
       "computedHash": "998bcb5a3c6b99b9f8ae5b872912162759689d7237ee99ced3eebcb0237f503f"
     },
     "ios-icon-gen": {
-      "source": "affaan-m/everything-claude-code",
+      "source": "affaan-m/ecc",
       "sourceType": "github",
       "skillPath": "skills/ios-icon-gen/SKILL.md",
       "computedHash": "fac0f04a131fc1a5e4c8befceb832f07b8af63cb58621638c93988a0834239a3"
@@ -3578,31 +3578,31 @@
       "computedHash": "41ebdde815c944348acb7928d2a2ec212c022b708cd5d931e9af8dcde88d207d"
     },
     "iterative-retrieval": {
-      "source": "affaan-m/everything-claude-code",
+      "source": "affaan-m/ecc",
       "sourceType": "github",
       "skillPath": "skills/iterative-retrieval/SKILL.md",
       "computedHash": "21d7ba16bd96af8440f463725e7eba7adab1cd708e071af009c1dac539c11870"
     },
     "ito-basket-compare": {
-      "source": "affaan-m/everything-claude-code",
+      "source": "affaan-m/ecc",
       "sourceType": "github",
       "skillPath": "skills/ito-basket-compare/SKILL.md",
       "computedHash": "ec2c17f13ac8109d193ee70870d68630db7f760d8598d82bcb94f558f8874987"
     },
     "ito-data-atlas-agent": {
-      "source": "affaan-m/everything-claude-code",
+      "source": "affaan-m/ecc",
       "sourceType": "github",
       "skillPath": "skills/ito-data-atlas-agent/SKILL.md",
       "computedHash": "dba010fc3683dd8f7ca51a8161ce75b643a1b05e1ad95549f683b4a50b889855"
     },
     "ito-market-intelligence": {
-      "source": "affaan-m/everything-claude-code",
+      "source": "affaan-m/ecc",
       "sourceType": "github",
       "skillPath": "skills/ito-market-intelligence/SKILL.md",
       "computedHash": "9618b57b41ac5c7dadd4b48a4ab5e4bea1df0a0c6989a5b0d303e8dd553b2775"
     },
     "ito-trade-planner": {
-      "source": "affaan-m/everything-claude-code",
+      "source": "affaan-m/ecc",
       "sourceType": "github",
       "skillPath": "skills/ito-trade-planner/SKILL.md",
       "computedHash": "28f18474ad7c016498a08521b94016df94438a56c454760f1282fd62b54809ef"
@@ -3614,7 +3614,7 @@
       "computedHash": "02a7bcc716c9338aedcb0727be38a86d6addbadb1c17b485d019f654d2b04af6"
     },
     "java-coding-standards": {
-      "source": "affaan-m/everything-claude-code",
+      "source": "affaan-m/ecc",
       "sourceType": "github",
       "skillPath": "skills/java-coding-standards/SKILL.md",
       "computedHash": "6a33dbc5c268723046968027c98245f2d64f33973f16f12749afd07d682b355d"
@@ -3638,13 +3638,13 @@
       "computedHash": "52839224a916582f7cbf0df6912f421b606c788772a26e01e9d31773472edd44"
     },
     "jira-integration": {
-      "source": "affaan-m/everything-claude-code",
+      "source": "affaan-m/ecc",
       "sourceType": "github",
       "skillPath": "skills/jira-integration/SKILL.md",
       "computedHash": "92def6d681f8d83f7c8c0be90432e0c8a0e0d6d3536bc77d7f7f6fc03561aa67"
     },
     "jpa-patterns": {
-      "source": "affaan-m/everything-claude-code",
+      "source": "affaan-m/ecc",
       "sourceType": "github",
       "skillPath": "skills/jpa-patterns/SKILL.md",
       "computedHash": "74b8bd782aa7aac7942415a0533cc592a2b913490b449e60fb1afc395ea35e3c"
@@ -3704,31 +3704,31 @@
       "computedHash": "a6f060a9cdc9fb5cdb3566432c19246b152f7a5843e82c7764a605e448e10984"
     },
     "knowledge-ops": {
-      "source": "affaan-m/everything-claude-code",
+      "source": "affaan-m/ecc",
       "sourceType": "github",
       "skillPath": "skills/knowledge-ops/SKILL.md",
       "computedHash": "70457ed3e5052b6b9152026d3c22b5c84a9a14a08a0de39f730b6845f195b070"
     },
     "kotlin-coroutines-flows": {
-      "source": "affaan-m/everything-claude-code",
+      "source": "affaan-m/ecc",
       "sourceType": "github",
       "skillPath": "skills/kotlin-coroutines-flows/SKILL.md",
       "computedHash": "dc26f1f68010e6b79f0e18c71a3677f80da1c54dd0356e5e9c080ee2b6644910"
     },
     "kotlin-exposed-patterns": {
-      "source": "affaan-m/everything-claude-code",
+      "source": "affaan-m/ecc",
       "sourceType": "github",
       "skillPath": "skills/kotlin-exposed-patterns/SKILL.md",
       "computedHash": "a33413efca53c2476c98f90b1427da69c16ad6711f7d8658a5bfdec40aff5556"
     },
     "kotlin-ktor-patterns": {
-      "source": "affaan-m/everything-claude-code",
+      "source": "affaan-m/ecc",
       "sourceType": "github",
       "skillPath": "skills/kotlin-ktor-patterns/SKILL.md",
       "computedHash": "c9f200be710225cbca9fe762aa30e6bf91580a675b707ee2e6a85ec3d0fdff8a"
     },
     "kotlin-patterns": {
-      "source": "affaan-m/everything-claude-code",
+      "source": "affaan-m/ecc",
       "sourceType": "github",
       "skillPath": "skills/kotlin-patterns/SKILL.md",
       "computedHash": "d69f7c8966582d10cd0e3b93cff4dec073872068785376ad835d4f2c87b0561c"
@@ -3740,7 +3740,7 @@
       "computedHash": "7119693c0ce1ebf7de447ccafef33cd319b9a8bfc057b6dfcb137caac2fea274"
     },
     "kotlin-testing": {
-      "source": "affaan-m/everything-claude-code",
+      "source": "affaan-m/ecc",
       "sourceType": "github",
       "skillPath": "skills/kotlin-testing/SKILL.md",
       "computedHash": "31f2cfa8a8c6bd46b5a63a80310d0b4d5fc654f70aab5ff83fb1072a5966f632"
@@ -3764,19 +3764,19 @@
       "computedHash": "a88d5d5ebcbba5687e4670e464617dcb9bda6db93de436b3bcfe2ddbf27aed77"
     },
     "laravel-patterns": {
-      "source": "affaan-m/everything-claude-code",
+      "source": "affaan-m/ecc",
       "sourceType": "github",
       "skillPath": "skills/laravel-patterns/SKILL.md",
       "computedHash": "c56253bf241431910bd23fa1e04f72eae90af8ae744843b57c21f5f8fd9152c2"
     },
     "laravel-plugin-discovery": {
-      "source": "affaan-m/everything-claude-code",
+      "source": "affaan-m/ecc",
       "sourceType": "github",
       "skillPath": "skills/laravel-plugin-discovery/SKILL.md",
       "computedHash": "d798b5b6baa529aaf6cca1537402e2dbc189d381a67229e12888194866476215"
     },
     "laravel-security": {
-      "source": "affaan-m/everything-claude-code",
+      "source": "affaan-m/ecc",
       "sourceType": "github",
       "skillPath": "skills/laravel-security/SKILL.md",
       "computedHash": "83f5d1d663a9e51bed330ec1d790eb45c943ba8255d70500e42e9eedd9a5fe55"
@@ -3788,13 +3788,13 @@
       "computedHash": "d58e2ed3488398cb94a039f25b9d270e55dc434e16102abff9035608bec3db90"
     },
     "laravel-tdd": {
-      "source": "affaan-m/everything-claude-code",
+      "source": "affaan-m/ecc",
       "sourceType": "github",
       "skillPath": "skills/laravel-tdd/SKILL.md",
       "computedHash": "1e1696def69bc34514f18890df71a3959f91b26a5112fa26928c0ffd02778b1d"
     },
     "laravel-verification": {
-      "source": "affaan-m/everything-claude-code",
+      "source": "affaan-m/ecc",
       "sourceType": "github",
       "skillPath": "skills/laravel-verification/SKILL.md",
       "computedHash": "6e97abb19b52cb772968d053e81c61f851f25d869bd6e80345c0b3e58248b458"
@@ -3806,7 +3806,7 @@
       "computedHash": "9e7cb2f9a6f51bf2b8c3041502a6453c4ce6048a09b598d93fba2a7697bd2e13"
     },
     "latency-critical-systems": {
-      "source": "affaan-m/everything-claude-code",
+      "source": "affaan-m/ecc",
       "sourceType": "github",
       "skillPath": "skills/latency-critical-systems/SKILL.md",
       "computedHash": "dbad9023795049357dc4008b6bda0cd7b3b7a54274031fb609952b55c1af04ac"
@@ -3830,7 +3830,7 @@
       "computedHash": "74f8c5dcdad2aa1c544aa2bf2ce80c2a225f903e62b5a9dc53bc65bd88d6c9bf"
     },
     "lead-intelligence": {
-      "source": "affaan-m/everything-claude-code",
+      "source": "affaan-m/ecc",
       "sourceType": "github",
       "skillPath": "skills/lead-intelligence/SKILL.md",
       "computedHash": "8972a3d1634773dd5ed55187cfcc7da0b81f1b589837ab2845ac587c9e3fff43"
@@ -3878,7 +3878,7 @@
       "computedHash": "c1983ef8e7b82370417045911a7f9e74d55d190a9b56c53cc63d87618afc5201"
     },
     "liquid-glass-design": {
-      "source": "affaan-m/everything-claude-code",
+      "source": "affaan-m/ecc",
       "sourceType": "github",
       "skillPath": "skills/liquid-glass-design/SKILL.md",
       "computedHash": "cdd47ce273b84d1e630aa6ea8086baa9b4affd9f881b3f95a7b25334b67a1dc5"
@@ -3890,7 +3890,7 @@
       "computedHash": "b5be826b5233975c0d25c874479dd5aa3f1995ea151a5e899d7456c19e4cf0e5"
     },
     "literature-review": {
-      "source": "affaan-m/everything-claude-code",
+      "source": "affaan-m/ecc",
       "sourceType": "github",
       "skillPath": "skills/scientific-thinking-literature-review/SKILL.md",
       "computedHash": "b5a417b206a5e3b54371007559af4c81b9990cde29dc313abd340d37c2d6372b"
@@ -3908,7 +3908,7 @@
       "computedHash": "ddb59bf490337b9413782bf3461a7cbbb70a823d76fa530d88ce5dbd769cdbc4"
     },
     "llm-trading-agent-security": {
-      "source": "affaan-m/everything-claude-code",
+      "source": "affaan-m/ecc",
       "sourceType": "github",
       "skillPath": "skills/llm-trading-agent-security/SKILL.md",
       "computedHash": "ad3cd1df0e9f2bde9bc16c9928ed409538830b1332ea5d9ecf24d6d58b480641"
@@ -3920,7 +3920,7 @@
       "computedHash": "f555cb970947501938a628fde2b74cf69f0d124d8dadf80ea6e1f6e3b6e06039"
     },
     "logistics-exception-management": {
-      "source": "affaan-m/everything-claude-code",
+      "source": "affaan-m/ecc",
       "sourceType": "github",
       "skillPath": "skills/logistics-exception-management/SKILL.md",
       "computedHash": "19a377f013e45a117620143325a26b1bb44236ca809618d5eb17d5a6bfc21a60"
@@ -3944,7 +3944,7 @@
       "computedHash": "17ebf6340873c57be3c35fd557f997f4843367a1062326ea5cecddcefe0ab780"
     },
     "make-interfaces-feel-better": {
-      "source": "affaan-m/everything-claude-code",
+      "source": "affaan-m/ecc",
       "sourceType": "github",
       "skillPath": "skills/make-interfaces-feel-better/SKILL.md",
       "computedHash": "6ba604521f89a05640c82c5bbc78e30c567008b9f0013d4e3cf73afa81d925fe"
@@ -3968,7 +3968,7 @@
       "computedHash": "5e9c10f8aaacc6a6e1c5e11e8164b309535eebe02e66ce2258d28f89b1346781"
     },
     "manim-video": {
-      "source": "affaan-m/everything-claude-code",
+      "source": "affaan-m/ecc",
       "sourceType": "github",
       "skillPath": "skills/manim-video/SKILL.md",
       "computedHash": "9aed1a6a59949abb7bdc23a6c922fecc1ae14f790186f170a51fbe7093f1d539"
@@ -3992,7 +3992,7 @@
       "computedHash": "57cea838aada8634f65024ebb125485b826b6d7cc2a546fa6d93794e576fc9c8"
     },
     "market-research": {
-      "source": "affaan-m/everything-claude-code",
+      "source": "affaan-m/ecc",
       "sourceType": "github",
       "skillPath": "skills/market-research/SKILL.md",
       "computedHash": "3a355a6ecccfe774773460d06ae3e60a57963996fe8f0d32b9a62d7ad5f71fa5"
@@ -4004,7 +4004,7 @@
       "computedHash": "ae8ababab0792aa56e1cb2d127a603c088d8fb62fb5c24233eb96013b350a1ee"
     },
     "marketing-campaign": {
-      "source": "affaan-m/everything-claude-code",
+      "source": "affaan-m/ecc",
       "sourceType": "github",
       "skillPath": "skills/marketing-campaign/SKILL.md",
       "computedHash": "45b67f3958ebd3ce4bcadaa4e3a8cb6c9e5c33e63cc5fedfac3e229e631a44b7"
@@ -4058,7 +4058,7 @@
       "computedHash": "e94458c5a3ca95938decbcf071e1fa3d1bb44a8b878c5a7cab7b48b7612dc5db"
     },
     "mcp-server-patterns": {
-      "source": "affaan-m/everything-claude-code",
+      "source": "affaan-m/ecc",
       "sourceType": "github",
       "skillPath": "skills/mcp-server-patterns/SKILL.md",
       "computedHash": "4217dab62c293ba6ce99cd38914abb6983cfc09957e239eb9cfa4b8f183662dc"
@@ -4100,7 +4100,7 @@
       "computedHash": "1d3f71750e574e1d0d089ca740c425440f39678b88d09bfcd3cde11731017519"
     },
     "messages-ops": {
-      "source": "affaan-m/everything-claude-code",
+      "source": "affaan-m/ecc",
       "sourceType": "github",
       "skillPath": "skills/messages-ops/SKILL.md",
       "computedHash": "b3661fcd86ef7154016b55260579d73af9bb4197287294a5e5f7a43fabd8335a"
@@ -4130,7 +4130,7 @@
       "computedHash": "5e80b6260cabb7e8705b04627f1ec1a70341ecf2e77cbc5df1b6fcb5242e18e5"
     },
     "mle-workflow": {
-      "source": "affaan-m/everything-claude-code",
+      "source": "affaan-m/ecc",
       "sourceType": "github",
       "skillPath": "skills/mle-workflow/SKILL.md",
       "computedHash": "e078cf6235d2d252d4cd12b540e7635f643d8df7f25687994dd7e492b1b69d41"
@@ -4214,25 +4214,25 @@
       "computedHash": "928f8e068a5c3c85e4a8d515241f21e5cf6a38b39c597cf54b681197fa107853"
     },
     "motion-advanced": {
-      "source": "affaan-m/everything-claude-code",
+      "source": "affaan-m/ecc",
       "sourceType": "github",
       "skillPath": "skills/motion-advanced/SKILL.md",
       "computedHash": "9262c4efc37ac56138ee4b3494e71d7cc8939e2446c357a1e1b9b9a21cc39dd2"
     },
     "motion-foundations": {
-      "source": "affaan-m/everything-claude-code",
+      "source": "affaan-m/ecc",
       "sourceType": "github",
       "skillPath": "skills/motion-foundations/SKILL.md",
       "computedHash": "42cc6fa240695c21e382ee90eb1b63911ad25a61bfa39edc88cc357e4b1eb233"
     },
     "motion-patterns": {
-      "source": "affaan-m/everything-claude-code",
+      "source": "affaan-m/ecc",
       "sourceType": "github",
       "skillPath": "skills/motion-patterns/SKILL.md",
       "computedHash": "7770d9cc7d58f497ee34e6928b9e477de7ffac87f345627dd4a8723a2aa4e56e"
     },
     "motion-ui": {
-      "source": "affaan-m/everything-claude-code",
+      "source": "affaan-m/ecc",
       "sourceType": "github",
       "skillPath": "skills/motion-ui/SKILL.md",
       "computedHash": "19422ce4e9ddadb06174cff5e709f87ab4a0bc8f59f4cc6ed0f7695780d6aef0"
@@ -4250,13 +4250,13 @@
       "computedHash": "35cf1f58d74d252f0b3a6ba41000beb263badf272afc0b77aaed425475085f8f"
     },
     "mysql-patterns": {
-      "source": "affaan-m/everything-claude-code",
+      "source": "affaan-m/ecc",
       "sourceType": "github",
       "skillPath": "skills/mysql-patterns/SKILL.md",
       "computedHash": "20ef9b8dbfdb8f0f3aa24738823626fa5921bbb50f0c435dd57bfff5ef81b708"
     },
     "nanoclaw-repl": {
-      "source": "affaan-m/everything-claude-code",
+      "source": "affaan-m/ecc",
       "sourceType": "github",
       "skillPath": "skills/nanoclaw-repl/SKILL.md",
       "computedHash": "36c5e39e32a6cb0e6887af15517394d0d43df8f2a9635a3ee7350bd6b3be9005"
@@ -4268,31 +4268,31 @@
       "computedHash": "0775f4ba14e4f372b894cc86feb0bf58a51b2038bc98b3ff18f2021565cea494"
     },
     "nestjs-patterns": {
-      "source": "affaan-m/everything-claude-code",
+      "source": "affaan-m/ecc",
       "sourceType": "github",
       "skillPath": "skills/nestjs-patterns/SKILL.md",
       "computedHash": "0ff35d7a72bb462f51629b38dcb525ab0368ff755cbd1cf121c144e7d05f12a1"
     },
     "netmiko-ssh-automation": {
-      "source": "affaan-m/everything-claude-code",
+      "source": "affaan-m/ecc",
       "sourceType": "github",
       "skillPath": "skills/netmiko-ssh-automation/SKILL.md",
       "computedHash": "59a5c9d21649f30e479bb3f074ccf22290ac50dee20a513e5b832209f7704666"
     },
     "network-bgp-diagnostics": {
-      "source": "affaan-m/everything-claude-code",
+      "source": "affaan-m/ecc",
       "sourceType": "github",
       "skillPath": "skills/network-bgp-diagnostics/SKILL.md",
       "computedHash": "eb2becd2e7afdbc8244d9b00071f212fa5de40044b6efbca4b68de4bdab127e4"
     },
     "network-config-validation": {
-      "source": "affaan-m/everything-claude-code",
+      "source": "affaan-m/ecc",
       "sourceType": "github",
       "skillPath": "skills/network-config-validation/SKILL.md",
       "computedHash": "e5e1a80eee691afba525add2856d00ccf502e527b2ae70ca1f3248916fe98a9d"
     },
     "network-interface-health": {
-      "source": "affaan-m/everything-claude-code",
+      "source": "affaan-m/ecc",
       "sourceType": "github",
       "skillPath": "skills/network-interface-health/SKILL.md",
       "computedHash": "11f0c345630d104ef767c74fa5eff5285429bb547e6877e86f93ac2e640616f8"
@@ -4346,25 +4346,25 @@
       "computedHash": "e53bdeaf766e6d5d29d1328f424777a8236f80f489134f1661bbda6c8c4149e9"
     },
     "nextjs-turbopack": {
-      "source": "affaan-m/everything-claude-code",
+      "source": "affaan-m/ecc",
       "sourceType": "github",
       "skillPath": "skills/nextjs-turbopack/SKILL.md",
       "computedHash": "a27022e1e58409153e9e8991e657263fb88f87be23400d3743d97424f03c5590"
     },
     "nodejs-keccak256": {
-      "source": "affaan-m/everything-claude-code",
+      "source": "affaan-m/ecc",
       "sourceType": "github",
       "skillPath": "skills/nodejs-keccak256/SKILL.md",
       "computedHash": "e32028a214f7200428e5a6ef71d081014f0df44d460ce2fea8cd0bf28f5b76d5"
     },
     "nutrient-document-processing": {
-      "source": "affaan-m/everything-claude-code",
+      "source": "affaan-m/ecc",
       "sourceType": "github",
       "skillPath": "skills/nutrient-document-processing/SKILL.md",
       "computedHash": "49b5c44ce0837c2e459c92255ddfacb0612af09fe40dc7ba1d144709e3931127"
     },
     "nuxt4-patterns": {
-      "source": "affaan-m/everything-claude-code",
+      "source": "affaan-m/ecc",
       "sourceType": "github",
       "skillPath": "skills/nuxt4-patterns/SKILL.md",
       "computedHash": "af1a31e0470c24e1ada7f5b9a4a4a2b923659c8ef31f76a8d231242b99809418"
@@ -4424,7 +4424,7 @@
       "computedHash": "c042ae80c2eb30c9ca682515e800b46f454fe8fa6fcaa32dca6369010a6c3336"
     },
     "openclaw-persona-forge": {
-      "source": "affaan-m/everything-claude-code",
+      "source": "affaan-m/ecc",
       "sourceType": "github",
       "skillPath": "skills/openclaw-persona-forge/SKILL.md",
       "computedHash": "beb6831ed1e67ccb56f22deb80eaed9be166fb56d29841720cd14016208ce361"
@@ -4436,7 +4436,7 @@
       "computedHash": "3b72777f33632becee38787038dc6b8c31742797b0643a7051c6f088d577321b"
     },
     "opensource-pipeline": {
-      "source": "affaan-m/everything-claude-code",
+      "source": "affaan-m/ecc",
       "sourceType": "github",
       "skillPath": "skills/opensource-pipeline/SKILL.md",
       "computedHash": "7e7c12fec9f9bb4102d066887cf46d39db51a6ffd6b546fc8c83f2bf5f1b514a"
@@ -4496,7 +4496,7 @@
       "computedHash": "98ab2117aca0cab29af8e60b7a8ed5d3344a17e5e52875c4a1b48f64fbf7c753"
     },
     "parallel-execution-optimizer": {
-      "source": "affaan-m/everything-claude-code",
+      "source": "affaan-m/ecc",
       "sourceType": "github",
       "skillPath": "skills/parallel-execution-optimizer/SKILL.md",
       "computedHash": "233a1657371f37a0403e5bad2df7fa7a8803a103cae1584b1bc143f485d4a770"
@@ -4604,19 +4604,19 @@
       "computedHash": "01b5adb5256e7cf09534f818039888733e1f2b193906e6a237c01d549b96af53"
     },
     "perl-patterns": {
-      "source": "affaan-m/everything-claude-code",
+      "source": "affaan-m/ecc",
       "sourceType": "github",
       "skillPath": "skills/perl-patterns/SKILL.md",
       "computedHash": "57699097acafa5848edd7ab5239d78d9a1ffba6814cc3dfccc96e6ca86ce1985"
     },
     "perl-security": {
-      "source": "affaan-m/everything-claude-code",
+      "source": "affaan-m/ecc",
       "sourceType": "github",
       "skillPath": "skills/perl-security/SKILL.md",
       "computedHash": "3756d615ec9096a298db541487a707991eed58fb11d97b2fefd414244ee77788"
     },
     "perl-testing": {
-      "source": "affaan-m/everything-claude-code",
+      "source": "affaan-m/ecc",
       "sourceType": "github",
       "skillPath": "skills/perl-testing/SKILL.md",
       "computedHash": "d67d2d4d39c5e34912baa6f585822bfe7e7ef56f8b58c3ba36bd1f4ffa11d1b6"
@@ -4646,7 +4646,7 @@
       "computedHash": "8d0f45800b4c87da26e1a2c4ec9fd7a3232fb4f5fb3346ef17dc7dc79b02cfc8"
     },
     "plan-orchestrate": {
-      "source": "affaan-m/everything-claude-code",
+      "source": "affaan-m/ecc",
       "sourceType": "github",
       "skillPath": "skills/plan-orchestrate/SKILL.md",
       "computedHash": "d5cd7880ee26ed3bb9f8c4750ab9196e69dfffa79053908f053379e3936d5e34"
@@ -4658,7 +4658,7 @@
       "computedHash": "1e04d4babe2731ad088dcc4ef8708feae96bb59df9357bdd1298d1d4702b5c2f"
     },
     "plankton-code-quality": {
-      "source": "affaan-m/everything-claude-code",
+      "source": "affaan-m/ecc",
       "sourceType": "github",
       "skillPath": "skills/plankton-code-quality/SKILL.md",
       "computedHash": "e9346320d37e4a87200e6a98037bdc334bfb4f5d2e872e89093160bc085844e9"
@@ -4700,7 +4700,7 @@
       "computedHash": "95c5cb45dcbb05362168255d97ee68d53a5916d8de779bd08f5f70c9b0cabd36"
     },
     "postgres-patterns": {
-      "source": "affaan-m/everything-claude-code",
+      "source": "affaan-m/ecc",
       "sourceType": "github",
       "skillPath": "skills/postgres-patterns/SKILL.md",
       "computedHash": "ce3084b8f555d1c560d849332483428301f30ec78f315e1d60ca1ddd8bc69a51"
@@ -4730,13 +4730,13 @@
       "computedHash": "bef789295279eccb6ed15ec1ff9edad458ff28a9075d5f6413a63cf30ad8f511"
     },
     "prediction-market-oracle-research": {
-      "source": "affaan-m/everything-claude-code",
+      "source": "affaan-m/ecc",
       "sourceType": "github",
       "skillPath": "skills/prediction-market-oracle-research/SKILL.md",
       "computedHash": "c5f99ed3b4684a54417a25c874ea86435a66c70643f39c747b577137719df0bc"
     },
     "prediction-market-risk-review": {
-      "source": "affaan-m/everything-claude-code",
+      "source": "affaan-m/ecc",
       "sourceType": "github",
       "skillPath": "skills/prediction-market-risk-review/SKILL.md",
       "computedHash": "9affa84276bc030d3f64c3a25e1fff55401300a5db5d22e5b5e3cb949c3c5601"
@@ -4754,19 +4754,19 @@
       "computedHash": "b209f35754f1b0d581f62fa72f3bbae7c2b2cc11d9c683da6195bfd2bf00bdb6"
     },
     "prisma-patterns": {
-      "source": "affaan-m/everything-claude-code",
+      "source": "affaan-m/ecc",
       "sourceType": "github",
       "skillPath": "skills/prisma-patterns/SKILL.md",
       "computedHash": "8f9183fccf0ad4499aaf8ccbcbc199d9836ef8f96df9b39f55483d71f4b296ef"
     },
     "product-capability": {
-      "source": "affaan-m/everything-claude-code",
+      "source": "affaan-m/ecc",
       "sourceType": "github",
       "skillPath": "skills/product-capability/SKILL.md",
       "computedHash": "4384a9ef7a518d73bce5c92a88542926cbe1dfcd60ed61630f3208b760350b08"
     },
     "product-lens": {
-      "source": "affaan-m/everything-claude-code",
+      "source": "affaan-m/ecc",
       "sourceType": "github",
       "skillPath": "skills/product-lens/SKILL.md",
       "computedHash": "ce3ccb3728a4ef118b2d17ee24f960f45dda9f1018519a30cbd8cb94de177dab"
@@ -4778,13 +4778,13 @@
       "computedHash": "2fe9e9093e385345d17e0e77d032d68015417c37ceffeb5fb34fc761c46c94a0"
     },
     "production-audit": {
-      "source": "affaan-m/everything-claude-code",
+      "source": "affaan-m/ecc",
       "sourceType": "github",
       "skillPath": "skills/production-audit/SKILL.md",
       "computedHash": "1d35fb55918b46b60a01ac942e984502401118b328cd46d49c35dfc8cca303a0"
     },
     "production-scheduling": {
-      "source": "affaan-m/everything-claude-code",
+      "source": "affaan-m/ecc",
       "sourceType": "github",
       "skillPath": "skills/production-scheduling/SKILL.md",
       "computedHash": "15bfc6c495d85133eb3f4b464833e13003b0a0e8d01d317fcfdaa9edc27c2344"
@@ -4796,7 +4796,7 @@
       "computedHash": "0bbdcbacfbe46fd78d774041ee49afd313505bb435b775dc246f4b8e6981d797"
     },
     "project-flow-ops": {
-      "source": "affaan-m/everything-claude-code",
+      "source": "affaan-m/ecc",
       "sourceType": "github",
       "skillPath": "skills/project-flow-ops/SKILL.md",
       "computedHash": "bea8c98f7938fdadebedc45045ba8dc93b789b7773c86e7464b2158ccd52cab8"
@@ -4814,7 +4814,7 @@
       "computedHash": "28717ed0eafe344d25d9d76e74109c0f1db3f5ced98d67406cee55d85d48d553"
     },
     "prompt-optimizer": {
-      "source": "affaan-m/everything-claude-code",
+      "source": "affaan-m/ecc",
       "sourceType": "github",
       "skillPath": "skills/prompt-optimizer/SKILL.md",
       "computedHash": "e9383cadec96d132d4b48937b115ea4906391d2539122a5e37ee7b9d387e5df4"
@@ -4862,7 +4862,7 @@
       "computedHash": "e80024bff8fb8cdbd8177445d51dfb7fa8f2fd603a61e70f57784ef462a70dc2"
     },
     "pubmed-database": {
-      "source": "affaan-m/everything-claude-code",
+      "source": "affaan-m/ecc",
       "sourceType": "github",
       "skillPath": "skills/scientific-db-pubmed-database/SKILL.md",
       "computedHash": "d135cd89a4a18f833bde3ed3813e5db6fd84525cf43bd9c4b82a82fdd830dff3"
@@ -4940,7 +4940,7 @@
       "computedHash": "1d2535ca0d4f6c5cf76eb2206781bd6a32ff85bdf9bc7fa15b7fde25d00bfa27"
     },
     "python-patterns": {
-      "source": "affaan-m/everything-claude-code",
+      "source": "affaan-m/ecc",
       "sourceType": "github",
       "skillPath": "skills/python-patterns/SKILL.md",
       "computedHash": "16fa370e24821a211eff44d9deb129e05f4ccebfaa8c14277824fd4103635af5"
@@ -4952,7 +4952,7 @@
       "computedHash": "fae3b07d03d2eb9f9112ceab0ef498ebafab33f1e095dff8c5a36de55ef68445"
     },
     "python-testing": {
-      "source": "affaan-m/everything-claude-code",
+      "source": "affaan-m/ecc",
       "sourceType": "github",
       "skillPath": "skills/python-testing/SKILL.md",
       "computedHash": "c3b4ee30765eae26190412c1d0c81e078680511094eabf42c043e4e5a1c12d9c"
@@ -4964,7 +4964,7 @@
       "computedHash": "55d17af101a0de98547c1c0538b55b7b4360095ed4ebf141e590b5221593bed4"
     },
     "pytorch-patterns": {
-      "source": "affaan-m/everything-claude-code",
+      "source": "affaan-m/ecc",
       "sourceType": "github",
       "skillPath": "skills/pytorch-patterns/SKILL.md",
       "computedHash": "05b98870477148924e3d5478d94acd61a246587eabf4a884aa2af8816ffbc5c2"
@@ -4982,31 +4982,31 @@
       "computedHash": "b570ccb7c18093404ed878cea5c50071ebfcf867f7691a2a2e7f98eac92020b7"
     },
     "quality-nonconformance": {
-      "source": "affaan-m/everything-claude-code",
+      "source": "affaan-m/ecc",
       "sourceType": "github",
       "skillPath": "skills/quality-nonconformance/SKILL.md",
       "computedHash": "d8822173edc34d1f1ca034eef82c03dd15fc3e84cb01d1860ab0c25330751d52"
     },
     "quarkus-patterns": {
-      "source": "affaan-m/everything-claude-code",
+      "source": "affaan-m/ecc",
       "sourceType": "github",
       "skillPath": "skills/quarkus-patterns/SKILL.md",
       "computedHash": "e5c63eabec011dc3fe08095abedb5b975e99d5c0c9d932faa04e8a8725ec914f"
     },
     "quarkus-security": {
-      "source": "affaan-m/everything-claude-code",
+      "source": "affaan-m/ecc",
       "sourceType": "github",
       "skillPath": "skills/quarkus-security/SKILL.md",
       "computedHash": "d14a19928f233b1a06cfe0481a7e9b31baac160b95d7c6d2406ba1c1af1109f0"
     },
     "quarkus-tdd": {
-      "source": "affaan-m/everything-claude-code",
+      "source": "affaan-m/ecc",
       "sourceType": "github",
       "skillPath": "skills/quarkus-tdd/SKILL.md",
       "computedHash": "3ef2b3ecd24fa40ff2ad10e8917e371d2750c8b5f7ea9a1ccd97c5bbe4445575"
     },
     "quarkus-verification": {
-      "source": "affaan-m/everything-claude-code",
+      "source": "affaan-m/ecc",
       "sourceType": "github",
       "skillPath": "skills/quarkus-verification/SKILL.md",
       "computedHash": "41475dd2866259741236c301d625126c9117923d424bd59f9162dad8adab98a9"
@@ -5036,7 +5036,7 @@
       "computedHash": "e67a8886ff2a11da8133188a0bc0b48b9df213c6fc4bac4cbdd1ddacabb628c1"
     },
     "ralphinho-rfc-pipeline": {
-      "source": "affaan-m/everything-claude-code",
+      "source": "affaan-m/ecc",
       "sourceType": "github",
       "skillPath": "skills/ralphinho-rfc-pipeline/SKILL.md",
       "computedHash": "b82022c5c16105c476940409a9970b4c012621592775b8230929d442dfa9d458"
@@ -5060,19 +5060,19 @@
       "computedHash": "f617f83be990728fef1ea2192c9b8ae85ef2c362e97f18782438f8bab357b02a"
     },
     "react-patterns": {
-      "source": "affaan-m/everything-claude-code",
+      "source": "affaan-m/ecc",
       "sourceType": "github",
       "skillPath": "skills/react-patterns/SKILL.md",
       "computedHash": "3da22addeb8342e32539e81bfec6a51d7de0f453a22dd5cb5d8f3f5f37fe32c3"
     },
     "react-performance": {
-      "source": "affaan-m/everything-claude-code",
+      "source": "affaan-m/ecc",
       "sourceType": "github",
       "skillPath": "skills/react-performance/SKILL.md",
       "computedHash": "b59458ec43bb91cf7adb644f15f583af9f76bc04c7919718fde109f0b6b22596"
     },
     "react-testing": {
-      "source": "affaan-m/everything-claude-code",
+      "source": "affaan-m/ecc",
       "sourceType": "github",
       "skillPath": "skills/react-testing/SKILL.md",
       "computedHash": "a8f8968a72f47ae5a8d4f52b940b68ed8f23739982687c5cd48ac93b8526d1db"
@@ -5096,19 +5096,19 @@
       "computedHash": "2760c85d4f4117b0006e7ba755f4bbd61f8f4c185f347999763c97f507274e30"
     },
     "recsys-pipeline-architect": {
-      "source": "affaan-m/everything-claude-code",
+      "source": "affaan-m/ecc",
       "sourceType": "github",
       "skillPath": "skills/recsys-pipeline-architect/SKILL.md",
       "computedHash": "3beb9b7bed37a35e6035b35f20c94005cdcff972b1fb92f6d953c39fa0a74b4c"
     },
     "recursive-decision-ledger": {
-      "source": "affaan-m/everything-claude-code",
+      "source": "affaan-m/ecc",
       "sourceType": "github",
       "skillPath": "skills/recursive-decision-ledger/SKILL.md",
       "computedHash": "d2364c7863de714247370d3c4cf4bc7455612d284a442eba14c202dd87befa7c"
     },
     "redis-patterns": {
-      "source": "affaan-m/everything-claude-code",
+      "source": "affaan-m/ecc",
       "sourceType": "github",
       "skillPath": "skills/redis-patterns/SKILL.md",
       "computedHash": "89ca084d0323def0cc26261d7bd102a5fe47436d48de355ef4c30dbf7207d553"
@@ -5126,7 +5126,7 @@
       "computedHash": "7523a929fd950d8b5342081996a97eb8cf1f264dd787afd8bd9e354de87924f5"
     },
     "regex-vs-llm-structured-text": {
-      "source": "affaan-m/everything-claude-code",
+      "source": "affaan-m/ecc",
       "sourceType": "github",
       "skillPath": "skills/regex-vs-llm-structured-text/SKILL.md",
       "computedHash": "c70376ef8aab9a7ce0b22abf1288b903b6f245dfe63d4353fe3ca63abf590d3f"
@@ -5144,7 +5144,7 @@
       "computedHash": "be640bfffe7b2fee6f5fa836b8b9cf30954be6f3efe71d5e89024c6e12feda24"
     },
     "remotion-video-creation": {
-      "source": "affaan-m/everything-claude-code",
+      "source": "affaan-m/ecc",
       "sourceType": "github",
       "skillPath": "skills/remotion-video-creation/SKILL.md",
       "computedHash": "affb2c3567929efb66a9236335a5e52f856a68d0982e64cee614e885bb70d692"
@@ -5156,7 +5156,7 @@
       "computedHash": "e26010745b355a9c623b9798cca6d6433e902132e3ddf4bbd421426ef93b266c"
     },
     "repo-scan": {
-      "source": "affaan-m/everything-claude-code",
+      "source": "affaan-m/ecc",
       "sourceType": "github",
       "skillPath": "skills/repo-scan/SKILL.md",
       "computedHash": "b72913237752d3ff232f7b3844fe3b0d90c63c229df54fe5dd90aa9bf3b8d8ed"
@@ -5180,7 +5180,7 @@
       "computedHash": "6da498989446173c49b8b4f31a7d84c652b0d1a5c6884cbf5ecd5cb240f7d324"
     },
     "research-ops": {
-      "source": "affaan-m/everything-claude-code",
+      "source": "affaan-m/ecc",
       "sourceType": "github",
       "skillPath": "skills/research-ops/SKILL.md",
       "computedHash": "69eec4c9aeae2c21a9a4e26420c65a17c3feb8143c5a446b0210d7f80fdf4fbb"
@@ -5204,7 +5204,7 @@
       "computedHash": "1fd398816fb46e6ec11f96c8487a0a1e0bf141d41f222d46bd96d1331ef5862f"
     },
     "returns-reverse-logistics": {
-      "source": "affaan-m/everything-claude-code",
+      "source": "affaan-m/ecc",
       "sourceType": "github",
       "skillPath": "skills/returns-reverse-logistics/SKILL.md",
       "computedHash": "9b339b6ff44d367675a0c20f0f8e973a98b278c3ec4e099543628c828f122369"
@@ -5258,7 +5258,7 @@
       "computedHash": "2e66b8e3e30c3900fbc787ff7eec8f0f1bde447195804d9fa19ace3bd600ce15"
     },
     "rules-distill": {
-      "source": "affaan-m/everything-claude-code",
+      "source": "affaan-m/ecc",
       "sourceType": "github",
       "skillPath": "skills/rules-distill/SKILL.md",
       "computedHash": "9e704ffd01026c5f9c2b77e1503f890a3d8fc4754da0ecfd7b8a1657b629a5a0"
@@ -5270,13 +5270,13 @@
       "computedHash": "f8093c6253afe24bbac3c3328c3ca07e9ef089758896ba10221ed0f2078cb2a0"
     },
     "rust-patterns": {
-      "source": "affaan-m/everything-claude-code",
+      "source": "affaan-m/ecc",
       "sourceType": "github",
       "skillPath": "skills/rust-patterns/SKILL.md",
       "computedHash": "99cc1d840bb3e5d911051b115e5da518f3f3ca74f3a8a3e89369c6da9298afa1"
     },
     "rust-testing": {
-      "source": "affaan-m/everything-claude-code",
+      "source": "affaan-m/ecc",
       "sourceType": "github",
       "skillPath": "skills/rust-testing/SKILL.md",
       "computedHash": "8f6cab4bcbdc5bd8c19f179e893ca5d502604a03e4e443bd27ba7c3a88a93add"
@@ -5294,7 +5294,7 @@
       "computedHash": "7fd1ccd802f9ef6afb9ab70885b2bcbbaacca29ae9f0c01994ec84c1d666f00d"
     },
     "safety-guard": {
-      "source": "affaan-m/everything-claude-code",
+      "source": "affaan-m/ecc",
       "sourceType": "github",
       "skillPath": "skills/safety-guard/SKILL.md",
       "computedHash": "c59c7a800f5dfaee0dabeb431782d425abe8d1eaeac46f3ce476e8e3f48455e8"
@@ -5318,7 +5318,7 @@
       "computedHash": "a4b5ae7acb98027b4aeb6a3eb31f301af20e30c6e0701b1d237b5714f159a479"
     },
     "santa-method": {
-      "source": "affaan-m/everything-claude-code",
+      "source": "affaan-m/ecc",
       "sourceType": "github",
       "skillPath": "skills/santa-method/SKILL.md",
       "computedHash": "35970b2d397ee74abed4bfc05b3d0b7ac09ef050f4a0f19e091132b7389a8273"
@@ -5342,7 +5342,7 @@
       "computedHash": "2f4807070c77b5c52af3a7e56d2ca5ee12ae2fd8b749d76ab68d3de40f323e78"
     },
     "scholar-evaluation": {
-      "source": "affaan-m/everything-claude-code",
+      "source": "affaan-m/ecc",
       "sourceType": "github",
       "skillPath": "skills/scientific-thinking-scholar-evaluation/SKILL.md",
       "computedHash": "67ce37da701bb6c31fbfd888ab48ed245b79f141e79057bcce27f98468629a18"
@@ -5420,7 +5420,7 @@
       "computedHash": "a40e175a93fc2a9c6fb1a3752dac968c293637636ccbdcaf9f547e922ac6ac2f"
     },
     "search-first": {
-      "source": "affaan-m/everything-claude-code",
+      "source": "affaan-m/ecc",
       "sourceType": "github",
       "skillPath": "skills/search-first/SKILL.md",
       "computedHash": "a78f8e77d5f8d9cf2a38682f4a707404f56a74e3040af4b090a3a769b3ffff23"
@@ -5456,13 +5456,13 @@
       "computedHash": "5db1d0d8851b43a50228784963fc15b9086804fe20cea95b98141f6bfe5e97d7"
     },
     "security-bounty-hunter": {
-      "source": "affaan-m/everything-claude-code",
+      "source": "affaan-m/ecc",
       "sourceType": "github",
       "skillPath": "skills/security-bounty-hunter/SKILL.md",
       "computedHash": "15933a9d061b3ebd27836671c8a04a91cdabdb02afac833e9724b331ac9fa45a"
     },
     "security-review": {
-      "source": "affaan-m/everything-claude-code",
+      "source": "affaan-m/ecc",
       "sourceType": "github",
       "skillPath": "skills/security-review/SKILL.md",
       "computedHash": "997a20d294003157511b86c72487c6193c524fb2977677f245e89ccdfc7202be"
@@ -5474,7 +5474,7 @@
       "computedHash": "7a1ed4f4ca78a50b97e3e8c5725e494dc8aae0895bd1efde681a75ab22ff89d3"
     },
     "security-scan": {
-      "source": "affaan-m/everything-claude-code",
+      "source": "affaan-m/ecc",
       "sourceType": "github",
       "skillPath": "skills/security-scan/SKILL.md",
       "computedHash": "92cdcaddc554e318402f066ccc073c2e3dbcfda8c2730ec62ec373f805c41a57"
@@ -5498,7 +5498,7 @@
       "computedHash": "55c2bf590b66dd518e50709d09903285243e61a5c73a2689eb86237e2dcb37c7"
     },
     "seo": {
-      "source": "affaan-m/everything-claude-code",
+      "source": "affaan-m/ecc",
       "sourceType": "github",
       "skillPath": "skills/seo/SKILL.md",
       "computedHash": "bed0668abba0f43512ba190c9c2c46d3a7e983583997783bf600f2ed5587b351"
@@ -5726,7 +5726,7 @@
       "computedHash": "48a38c5e2b000d134c3db282364b1014bad362fa91d4618ad8c2eb7cee991208"
     },
     "skill-comply": {
-      "source": "affaan-m/everything-claude-code",
+      "source": "affaan-m/ecc",
       "sourceType": "github",
       "skillPath": "skills/skill-comply/SKILL.md",
       "computedHash": "c15ea1b32f33a1c67fe2f4cd7602ab11f63bbb3533767a7b082e5279cf7b48b7"
@@ -5744,13 +5744,13 @@
       "computedHash": "b6cd0e314c7cfdbc0f74e43bfa4eed190fcace919a0e5e312bb5a07853a6d88a"
     },
     "skill-scout": {
-      "source": "affaan-m/everything-claude-code",
+      "source": "affaan-m/ecc",
       "sourceType": "github",
       "skillPath": "skills/skill-scout/SKILL.md",
       "computedHash": "d492f744f97dfb3791e91d4409aeb988b7e78ec459eab8a4f070bb84522c75b1"
     },
     "skill-stocktake": {
-      "source": "affaan-m/everything-claude-code",
+      "source": "affaan-m/ecc",
       "sourceType": "github",
       "skillPath": "skills/skill-stocktake/SKILL.md",
       "computedHash": "a6d96dbf5d359757c73dcd75bdd655136c57bb6a1d1a69a1f327489774512e0b"
@@ -5780,13 +5780,13 @@
       "computedHash": "45f19eb1da07de3505f4db57ea0a83906c73bc30bc6af1fdb4d576d5d2dee310"
     },
     "social-graph-ranker": {
-      "source": "affaan-m/everything-claude-code",
+      "source": "affaan-m/ecc",
       "sourceType": "github",
       "skillPath": "skills/social-graph-ranker/SKILL.md",
       "computedHash": "4f84f699709f4b067b465c32507b413702d1e822ded0f8e9e934c26104cb3b46"
     },
     "social-publisher": {
-      "source": "affaan-m/everything-claude-code",
+      "source": "affaan-m/ecc",
       "sourceType": "github",
       "skillPath": "skills/social-publisher/SKILL.md",
       "computedHash": "79d914ffd9fe45e4c42f6988bdba784f46a4e3508ce7167e1f334bd40b73f299"
@@ -5852,25 +5852,25 @@
       "computedHash": "ed065f5db45afe9dc2739cff713927d0b6b6ad3e667bdf7b40340d1a5543bb0f"
     },
     "springboot-patterns": {
-      "source": "affaan-m/everything-claude-code",
+      "source": "affaan-m/ecc",
       "sourceType": "github",
       "skillPath": "skills/springboot-patterns/SKILL.md",
       "computedHash": "bc422225a6b9f72cc69c45b2c4b8828d8a2c35c2fe2a893700932178f49e3900"
     },
     "springboot-security": {
-      "source": "affaan-m/everything-claude-code",
+      "source": "affaan-m/ecc",
       "sourceType": "github",
       "skillPath": "skills/springboot-security/SKILL.md",
       "computedHash": "85450647da9a2d1390da8c75c04cad6b56e48158af1de1862329ebcffec2e199"
     },
     "springboot-tdd": {
-      "source": "affaan-m/everything-claude-code",
+      "source": "affaan-m/ecc",
       "sourceType": "github",
       "skillPath": "skills/springboot-tdd/SKILL.md",
       "computedHash": "c759c47d0dcbc914ab4cd565b32c63f886b6599cddd7e4e8c8d3082dbff4da39"
     },
     "springboot-verification": {
-      "source": "affaan-m/everything-claude-code",
+      "source": "affaan-m/ecc",
       "sourceType": "github",
       "skillPath": "skills/springboot-verification/SKILL.md",
       "computedHash": "88a2604dca610c7bf230affe5b2006d8c847ae29ca68cef3c0b9052ee736734d"
@@ -5912,7 +5912,7 @@
       "computedHash": "836aed59b3371fcd2fcf0166bf63f0c912993d02687381e1ee6e7aa6e8c7503d"
     },
     "strategic-compact": {
-      "source": "affaan-m/everything-claude-code",
+      "source": "affaan-m/ecc",
       "sourceType": "github",
       "skillPath": "skills/strategic-compact/SKILL.md",
       "computedHash": "06d9e7d8fd38948869e31632db426f1ab2e144456e5495904561c91b7b908ee7"
@@ -6002,13 +6002,13 @@
       "computedHash": "a9e1738dc1dfd7cbbbf548421bf22f8d9cdcd8332ee23f472d787658843d1f3c"
     },
     "swift-actor-persistence": {
-      "source": "affaan-m/everything-claude-code",
+      "source": "affaan-m/ecc",
       "sourceType": "github",
       "skillPath": "skills/swift-actor-persistence/SKILL.md",
       "computedHash": "b6133e7df289f76de1c2c4a107d389cf8a4f015871e97007081aae3ac11eb4ea"
     },
     "swift-concurrency-6-2": {
-      "source": "affaan-m/everything-claude-code",
+      "source": "affaan-m/ecc",
       "sourceType": "github",
       "skillPath": "skills/swift-concurrency-6-2/SKILL.md",
       "computedHash": "494537bbbc803bd28b0a80bde5844fe82f4b334e7bcb8ba05a3b4a32b759b036"
@@ -6020,13 +6020,13 @@
       "computedHash": "3486707c8581c84d35d3da765ad9afd3744f93e9d208505bcb91c093e70d95c1"
     },
     "swift-protocol-di-testing": {
-      "source": "affaan-m/everything-claude-code",
+      "source": "affaan-m/ecc",
       "sourceType": "github",
       "skillPath": "skills/swift-protocol-di-testing/SKILL.md",
       "computedHash": "3d455b4d4950513eae02a556292812c8ad74fbb52f92ce09a5776d773aef0861"
     },
     "swiftui-patterns": {
-      "source": "affaan-m/everything-claude-code",
+      "source": "affaan-m/ecc",
       "sourceType": "github",
       "skillPath": "skills/swiftui-patterns/SKILL.md",
       "computedHash": "86aa244015049fd70bbc4359d8e6aff6b901a38c09ebfc08cee02cbc46d407e5"
@@ -6056,13 +6056,13 @@
       "computedHash": "f0149a1bb9239bcdc4123c21b6721eef5ca8efb38a8a82f5e830c6c623247832"
     },
     "tdd-workflow": {
-      "source": "affaan-m/everything-claude-code",
+      "source": "affaan-m/ecc",
       "sourceType": "github",
       "skillPath": "skills/tdd-workflow/SKILL.md",
       "computedHash": "d10751717312fe7613c05c226013569edd1b6c1785a446897570c703cc9c5d02"
     },
     "team-builder": {
-      "source": "affaan-m/everything-claude-code",
+      "source": "affaan-m/ecc",
       "sourceType": "github",
       "skillPath": "skills/team-builder/SKILL.md",
       "computedHash": "528d3d590856df5e45f6f3710778be556117b2af3702aeafbc122304533610dc"
@@ -6074,7 +6074,7 @@
       "computedHash": "38c88f722b574a922311d334a70c2008a2a5b896f06eaa75516d716e5725b26f"
     },
     "terminal-ops": {
-      "source": "affaan-m/everything-claude-code",
+      "source": "affaan-m/ecc",
       "sourceType": "github",
       "skillPath": "skills/terminal-ops/SKILL.md",
       "computedHash": "90237198c14df985b7c5966edf2753b65e90426e7b5cffa38a45b6e3f7a29300"
@@ -6182,13 +6182,13 @@
       "computedHash": "2c834b5877b3f69cbb67fced5d831199f773cdd9f0b681ec3e8cb36d46e21ea9"
     },
     "tinystruct-patterns": {
-      "source": "affaan-m/everything-claude-code",
+      "source": "affaan-m/ecc",
       "sourceType": "github",
       "skillPath": "skills/tinystruct-patterns/SKILL.md",
       "computedHash": "f57682868bb0ea650cfed983634eaebb0cedb3d62222ba357987d96089472a9d"
     },
     "token-budget-advisor": {
-      "source": "affaan-m/everything-claude-code",
+      "source": "affaan-m/ecc",
       "sourceType": "github",
       "skillPath": "skills/token-budget-advisor/SKILL.md",
       "computedHash": "22710a1188abc5f2e8f164fb2ee35e720c361cbd7eedb4a8b5674b72b908ee8c"
@@ -6320,13 +6320,13 @@
       "computedHash": "b53b57340243eab4b75acee9096f0444319bb1b9e8530fdab4d1d75e1568fa6c"
     },
     "ui-demo": {
-      "source": "affaan-m/everything-claude-code",
+      "source": "affaan-m/ecc",
       "sourceType": "github",
       "skillPath": "skills/ui-demo/SKILL.md",
       "computedHash": "6806c4920f2cc541edf314448e1bb30dbf93de875bd3be7363d0d2850c601e02"
     },
     "ui-to-vue": {
-      "source": "affaan-m/everything-claude-code",
+      "source": "affaan-m/ecc",
       "sourceType": "github",
       "skillPath": "skills/ui-to-vue/SKILL.md",
       "computedHash": "94f4409ff0f9f4ffdc9c9d6013d75141e83b54c7517fcdbbe3232b4c37639d67"
@@ -6338,13 +6338,13 @@
       "computedHash": "2d4694f31341b7bcfb19eb67fbb9e4cce723038044b3e7747d153881876b2852"
     },
     "uncloud": {
-      "source": "affaan-m/everything-claude-code",
+      "source": "affaan-m/ecc",
       "sourceType": "github",
       "skillPath": "skills/uncloud/SKILL.md",
       "computedHash": "716094d3d19e4fad1058fa8eee4544536daec3663ed09eebfb29f8fed4578c41"
     },
     "unified-notifications-ops": {
-      "source": "affaan-m/everything-claude-code",
+      "source": "affaan-m/ecc",
       "sourceType": "github",
       "skillPath": "skills/unified-notifications-ops/SKILL.md",
       "computedHash": "73fe4768effba64905af8171c4a7d450dda4dad984b07680ae2377321c3d9c75"
@@ -6386,7 +6386,7 @@
       "computedHash": "de10fd3ff46d797acc92b9df6b3ea456a5cd1d095b73c90bc921e83cce4c5bb9"
     },
     "uspto-database": {
-      "source": "affaan-m/everything-claude-code",
+      "source": "affaan-m/ecc",
       "sourceType": "github",
       "skillPath": "skills/scientific-db-uspto-database/SKILL.md",
       "computedHash": "d4490d98bb75a8958c4ded92f98f9d35593758d3e2ac42bb820754a245366306"
@@ -6488,7 +6488,7 @@
       "computedHash": "9b446f0c7fe1cfb560b1d34439523b1a76d5f177290007b2c053a1c749a4a8ba"
     },
     "verification-loop": {
-      "source": "affaan-m/everything-claude-code",
+      "source": "affaan-m/ecc",
       "sourceType": "github",
       "skillPath": "skills/verification-loop/SKILL.md",
       "computedHash": "48983654663b9be827e82d4556cccb8f197b32e0cf86e4c661c434692ee41b3b"
@@ -6500,25 +6500,25 @@
       "computedHash": "8286d39be8d86f9fc1c39b3c340cdebcf9a490f7606ffde566572baa163b1fe7"
     },
     "video-editing": {
-      "source": "affaan-m/everything-claude-code",
+      "source": "affaan-m/ecc",
       "sourceType": "github",
       "skillPath": "skills/video-editing/SKILL.md",
       "computedHash": "909c41bee4962b9a84ef3e673e060fb3555c77ca82ba1ef80d49807af315a152"
     },
     "videodb": {
-      "source": "affaan-m/everything-claude-code",
+      "source": "affaan-m/ecc",
       "sourceType": "github",
       "skillPath": "skills/videodb/SKILL.md",
       "computedHash": "f5cf0486e14f5e2521b575caea6add5b143a4ccac60adead8733fc466e2d7960"
     },
     "visa-doc-translate": {
-      "source": "affaan-m/everything-claude-code",
+      "source": "affaan-m/ecc",
       "sourceType": "github",
       "skillPath": "skills/visa-doc-translate/SKILL.md",
       "computedHash": "f44abe149c043af7fbaf75aa78e7f49ecdd978f0a1ccf599429f9bc8b5edd375"
     },
     "vite-patterns": {
-      "source": "affaan-m/everything-claude-code",
+      "source": "affaan-m/ecc",
       "sourceType": "github",
       "skillPath": "skills/vite-patterns/SKILL.md",
       "computedHash": "525109b3d09d277f0dd54109a8f604a0bcae0f12fe1747691e209d66b3a50a0d"
@@ -6596,7 +6596,7 @@
       "computedHash": "1dc562881dbe6e4fe3de8c070282dc87ae910b4198a11d340dbbea8f6192b8a7"
     },
     "windows-desktop-e2e": {
-      "source": "affaan-m/everything-claude-code",
+      "source": "affaan-m/ecc",
       "sourceType": "github",
       "skillPath": "skills/windows-desktop-e2e/SKILL.md",
       "computedHash": "1318a3fed663e7da264fa523d77c4ef090f48498805e43ce6d1f9c43f92aac49"
@@ -6644,7 +6644,7 @@
       "computedHash": "1dee8d4a730d517b398193382d9823667fae701203633995b3eece2a9177a67e"
     },
     "workspace-surface-audit": {
-      "source": "affaan-m/everything-claude-code",
+      "source": "affaan-m/ecc",
       "sourceType": "github",
       "skillPath": "skills/workspace-surface-audit/SKILL.md",
       "computedHash": "e8c5a553c02409bcc66920f586d7c4348edfae08a375ec9e3270a202263c6a9a"
@@ -6686,7 +6686,7 @@
       "computedHash": "6d57a9673c7c67e6ab72d617b734bfeb789c972a68f6b561e8facbfc475d55a0"
     },
     "x-api": {
-      "source": "affaan-m/everything-claude-code",
+      "source": "affaan-m/ecc",
       "sourceType": "github",
       "skillPath": "skills/x-api/SKILL.md",
       "computedHash": "b9fccc9b0da292adf1af217168558d0c3e49e186ea09741a2be2aebbc1dee286"
