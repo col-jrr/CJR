@@ -5936,10 +5936,10 @@
       "computedHash": "11d5756aca82a3c266abc470c44f6285c5a4215a97afe3e6abb2a1394c112d3e"
     },
     "subagent-driven-development": {
-      "source": "NeoLabHQ/context-engineering-kit",
+      "source": "obra/superpowers",
       "sourceType": "github",
-      "skillPath": "plugins/sadd/skills/subagent-driven-development/SKILL.md",
-      "computedHash": "d5b7b82d2d0f8132c574a4bbdcd5856e9e99e7edfebc30b8b8e4f64158b88535"
+      "skillPath": "skills/subagent-driven-development/SKILL.md",
+      "computedHash": "b38be2f3a092d758127f6d47e77c2493885aebf38aae359e4c786df2c343b837"
     },
     "substrate-vulnerability-scanner": {
       "source": "trailofbits/skills",
@@ -6110,10 +6110,10 @@
       "computedHash": "43c969e1fa8514cf7c4c414b8138dbe4c366ec697d7124c3677fe9dcc8ce2da9"
     },
     "test-driven-development": {
-      "source": "NeoLabHQ/context-engineering-kit",
+      "source": "obra/superpowers",
       "sourceType": "github",
-      "skillPath": "plugins/tdd/skills/test-driven-development/SKILL.md",
-      "computedHash": "ed985d7e012c0caa184828052f4300aeb799f1dcfab87c0c916dfd8ee23bfd7c"
+      "skillPath": "skills/test-driven-development/SKILL.md",
+      "computedHash": "126f1ebf6ccd414f42544f6e83d8cc5adb089e1108eaffb7c400701e37eecd9f"
     },
     "test-gaps": {
       "source": "ruvnet/claude-flow",
