@@ -895,6 +895,12 @@
       "skillPath": "skills/angular-developer/SKILL.md",
       "computedHash": "0fe05edd9ec3e00b9465a99653575ba8c1bb32cd67e716a09cd451f4421b93f7"
     },
+    "animejs": {
+      "source": "heygen-com/hyperframes",
+      "sourceType": "github",
+      "skillPath": "skills/animejs/SKILL.md",
+      "computedHash": "1880b1980cf66aaacdbbcaf17284ed0844b15b9104568165be4568918074d5f5"
+    },
     "anndata": {
       "source": "K-Dense-AI/claude-scientific-skills",
       "sourceType": "github",
@@ -1945,6 +1951,12 @@
       "skillPath": "skills/continuous-learning-v2/SKILL.md",
       "computedHash": "92d5f17501a9a41d41daff9499c09cf57798aaa9a4ddedc958400352160b44ac"
     },
+    "contribute-catalog": {
+      "source": "heygen-com/hyperframes",
+      "sourceType": "github",
+      "skillPath": "skills/contribute-catalog/SKILL.md",
+      "computedHash": "911ae13321ae8b7f37b8723e0f48db1d8ff967beb6522822e8c6806dd3dce31c"
+    },
     "copy-editing": {
       "source": "coreyhaines31/marketingskills",
       "sourceType": "github",
@@ -2220,6 +2232,12 @@
       "sourceType": "github",
       "skillPath": "skills/csharp-testing/SKILL.md",
       "computedHash": "904f0b2991ac644504bf8ca8cf4c3907a488b17439943f3e922f62ae8bae7b46"
+    },
+    "css-animations": {
+      "source": "heygen-com/hyperframes",
+      "sourceType": "github",
+      "skillPath": "skills/css-animations/SKILL.md",
+      "computedHash": "44c8a279548753b8aa41d4afbf0f33d4235fa1407beda6395afb3959a745a07d"
     },
     "customer-billing-ops": {
       "source": "affaan-m/ecc",
@@ -3295,6 +3313,12 @@
       "skillPath": "skills/graphql-architect/SKILL.md",
       "computedHash": "78c6dd863af986f7f409e26ba25dc14f76985f892a0340383dc56a7b8439ec43"
     },
+    "gsap": {
+      "source": "heygen-com/hyperframes",
+      "sourceType": "github",
+      "skillPath": "skills/gsap/SKILL.md",
+      "computedHash": "bb14343a55447c56b960559c30c2cd6f3ba7c2c54baf4eba8ed7c5da5f6d066d"
+    },
     "gtars": {
       "source": "K-Dense-AI/claude-scientific-skills",
       "sourceType": "github",
@@ -3444,6 +3468,30 @@
       "sourceType": "github",
       "skillPath": "skills/hugging-science/SKILL.md",
       "computedHash": "da712104e1ba1547598f4f1afa9b03382c1edb0d47cd5659f7ac1288813eaec0"
+    },
+    "hyperframes": {
+      "source": "heygen-com/hyperframes",
+      "sourceType": "github",
+      "skillPath": "skills/hyperframes/SKILL.md",
+      "computedHash": "c844dbbbb3c1162dbd0126cf2301f3e3bdeb21353e7f07a265a6e5ad439ddc8f"
+    },
+    "hyperframes-cli": {
+      "source": "heygen-com/hyperframes",
+      "sourceType": "github",
+      "skillPath": "skills/hyperframes-cli/SKILL.md",
+      "computedHash": "6272f5136a7ab54f274c13c767ef9942281c7fdd0ab9ca3067c2ccfb4be279e7"
+    },
+    "hyperframes-media": {
+      "source": "heygen-com/hyperframes",
+      "sourceType": "github",
+      "skillPath": "skills/hyperframes-media/SKILL.md",
+      "computedHash": "d5c40907c9f52c39dc4a926a3c17fbc68c239a33f0821ee6f43ee7006b1d20ca"
+    },
+    "hyperframes-registry": {
+      "source": "heygen-com/hyperframes",
+      "sourceType": "github",
+      "skillPath": "skills/hyperframes-registry/SKILL.md",
+      "computedHash": "141fcd863a1a02117706712508e8b0df407c3d0ff36e5863123fa4ce2defd14d"
     },
     "hypogenic": {
       "source": "K-Dense-AI/claude-scientific-skills",
@@ -3942,6 +3990,12 @@
       "sourceType": "github",
       "skillPath": "plugins/ruflo-loop-workers/skills/loop-worker/SKILL.md",
       "computedHash": "17ebf6340873c57be3c35fd557f997f4843367a1062326ea5cecddcefe0ab780"
+    },
+    "lottie": {
+      "source": "heygen-com/hyperframes",
+      "sourceType": "github",
+      "skillPath": "skills/lottie/SKILL.md",
+      "computedHash": "385ed944795f1e6b5efa883b069611497be4a7fa78ceed7bfe51cb58e4b0d890"
     },
     "make-interfaces-feel-better": {
       "source": "affaan-m/ecc",
@@ -5137,6 +5191,12 @@
       "skillPath": "skills/release-prep/SKILL.md",
       "computedHash": "1f931ad62667206eb85cd98eb5e0308f9e8cd858504cd035c4fa4e0e2b929244"
     },
+    "remotion-to-hyperframes": {
+      "source": "heygen-com/hyperframes",
+      "sourceType": "github",
+      "skillPath": "skills/remotion-to-hyperframes/SKILL.md",
+      "computedHash": "7bfa13c3a5baa27db840d1107b43db45c65a10f4c5c1e9fcafc861a462e6ca7e"
+    },
     "remotion-video": {
       "source": "wshuyi/remotion-video-skill",
       "sourceType": "github",
@@ -6049,6 +6109,12 @@
       "skillPath": "skills/systematic-debugging/SKILL.md",
       "computedHash": "7246fdd3a795fc3daff0af72044ca99bf836e4e6a46844742858786fdfb86488"
     },
+    "tailwind": {
+      "source": "heygen-com/hyperframes",
+      "sourceType": "github",
+      "skillPath": "skills/tailwind/SKILL.md",
+      "computedHash": "81c15c45ad0fad512fc7b34985c24b567762c9c6bb976827c5991ec9dec88ca5"
+    },
     "tavily-usage": {
       "source": "fcakyon/claude-codex-settings",
       "sourceType": "github",
@@ -6168,6 +6234,12 @@
       "sourceType": "github",
       "skillPath": "plugins/customaize-agent/skills/thought-based-reasoning/SKILL.md",
       "computedHash": "23a4669c49aace2adf9f47aae9b4090813c787c93f0924667076fd198abc725e"
+    },
+    "three": {
+      "source": "heygen-com/hyperframes",
+      "sourceType": "github",
+      "skillPath": "skills/three/SKILL.md",
+      "computedHash": "39f1522a327799dab8aafbfd64fc548f0fdb6ec03cb235e236afc9298345a715"
     },
     "tiledbvcf": {
       "source": "K-Dense-AI/claude-scientific-skills",
@@ -6312,6 +6384,12 @@
       "sourceType": "github",
       "skillPath": "trello/skills/trello/SKILL.md",
       "computedHash": "112e1ebc3b1ba7ab293ce032fb95f1e1cbc411199862d7433e00234bbef5f87d"
+    },
+    "typegpu": {
+      "source": "heygen-com/hyperframes",
+      "sourceType": "github",
+      "skillPath": "skills/typegpu/SKILL.md",
+      "computedHash": "f7f39c882b817188d97a91c519cee6bba31088ce57c3750a7139eb04ff64a4de"
     },
     "typescript-pro": {
       "source": "jeffallan/claude-skills",
@@ -6535,6 +6613,12 @@
       "skillPath": "skills/vue-expert-js/SKILL.md",
       "computedHash": "f9480e6f932c64f0f87a609691bbf587978f21017f9104b4010c4890b03dea16"
     },
+    "waapi": {
+      "source": "heygen-com/hyperframes",
+      "sourceType": "github",
+      "skillPath": "skills/waapi/SKILL.md",
+      "computedHash": "91d57ea8e36f47ddef497ccd27ffa55b774bb53d988d4f8b6f67860a767930f6"
+    },
     "wasm-agent": {
       "source": "ruvnet/claude-flow",
       "sourceType": "github",
@@ -6576,6 +6660,12 @@
       "sourceType": "github",
       "skillPath": "skills/webapp-testing/SKILL.md",
       "computedHash": "ad5b1fc52807e9afa4635e59218a026b164dc58b6c3f41b0f7c644dcd6ccf572"
+    },
+    "website-to-hyperframes": {
+      "source": "heygen-com/hyperframes",
+      "sourceType": "github",
+      "skillPath": "skills/website-to-hyperframes/SKILL.md",
+      "computedHash": "0b1ee10eedd5df4cec928b7d41c9416534bf739fdcf22e69858f9ccb0accba2a"
     },
     "websocket-engineer": {
       "source": "jeffallan/claude-skills",
