@@ -5089,6 +5089,30 @@
       "skillPath": "skills/rails-expert/SKILL.md",
       "computedHash": "e67a8886ff2a11da8133188a0bc0b48b9df213c6fc4bac4cbdd1ddacabb628c1"
     },
+    "ralph-copywriter": {
+      "source": "muratcankoylan/ralph-wiggum-marketer",
+      "sourceType": "github",
+      "skillPath": "skills/copywriter/SKILL.md",
+      "computedHash": "d90bc458bdc669e557e4c82bc931a5afb1f62c76cabdba9e9aff37e10dae0cef"
+    },
+    "ralph-docs": {
+      "source": "mikeyobrien/ralph-orchestrator",
+      "sourceType": "github",
+      "skillPath": "skills/ralph-docs/SKILL.md",
+      "computedHash": "2bd8d8cfa644ea0930d74915a3c96a39ae6c62fcf4fd4156e35cc650cba107b3"
+    },
+    "ralph-hats": {
+      "source": "mikeyobrien/ralph-orchestrator",
+      "sourceType": "github",
+      "skillPath": "skills/ralph-hats/SKILL.md",
+      "computedHash": "7811ff31e8813d418395999d39371529ce923f65e93eded87ef11880fc281eed"
+    },
+    "ralph-loop": {
+      "source": "mikeyobrien/ralph-orchestrator",
+      "sourceType": "github",
+      "skillPath": "skills/ralph-loop/SKILL.md",
+      "computedHash": "449c7ad5ffb2ee5ed6fbbc121ef6a8a11da7d0686331c1df85ec2c40ea2bc8bd"
+    },
     "ralphinho-rfc-pipeline": {
       "source": "affaan-m/ecc",
       "sourceType": "github",
