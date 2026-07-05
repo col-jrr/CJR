@@ -895,6 +895,12 @@
       "skillPath": "skills/angular-developer/SKILL.md",
       "computedHash": "0fe05edd9ec3e00b9465a99653575ba8c1bb32cd67e716a09cd451f4421b93f7"
     },
+    "animation-vocabulary": {
+      "source": "emilkowalski/skills",
+      "sourceType": "github",
+      "skillPath": "skills/animation-vocabulary/SKILL.md",
+      "computedHash": "39319fc9a33c15be08666b3685f58666f042ff36bb902b7814c0834a5ba99df4"
+    },
     "animejs": {
       "source": "heygen-com/hyperframes",
       "sourceType": "github",
@@ -1242,6 +1248,12 @@
       "sourceType": "github",
       "skillPath": "skills/brand-voice/SKILL.md",
       "computedHash": "a966bbb848ca73f1f4213c1ac68bef177e5c7e768150f0ce1152ff728e59c929"
+    },
+    "brandkit": {
+      "source": "Leonxlnx/taste-skill",
+      "sourceType": "github",
+      "skillPath": "skills/brandkit/SKILL.md",
+      "computedHash": "b63012f3c3d21197e0185d3e9cc7ec40c589fb10e0b5a32a561739de31aa3f20"
     },
     "browser": {
       "source": "ruvnet/claude-flow",
@@ -2419,6 +2431,18 @@
       "skillPath": "skills/design-system/SKILL.md",
       "computedHash": "e94439a0e2704d3802c2c5b393444a65afd2a5e0f2b0809e5ec9189452f4734b"
     },
+    "design-taste-frontend": {
+      "source": "Leonxlnx/taste-skill",
+      "sourceType": "github",
+      "skillPath": "skills/taste-skill/SKILL.md",
+      "computedHash": "6d838b246d0e35d0b53f4f23f98ba7a1dd561937e64f7d0c7553b0928e376c3e"
+    },
+    "design-taste-frontend-v1": {
+      "source": "Leonxlnx/taste-skill",
+      "sourceType": "github",
+      "skillPath": "skills/taste-skill-v1/SKILL.md",
+      "computedHash": "d704ab912c4d0ca954ffa858983da755ae4cd5cad9ba22554db5557382f5bd34"
+    },
     "designing-workflow-skills": {
       "source": "trailofbits/skills",
       "sourceType": "github",
@@ -2724,6 +2748,12 @@
       "sourceType": "github",
       "skillPath": ".agents/skills/embeddings/SKILL.md",
       "computedHash": "c6e7181821ce272034893497fa002ffdfc8e3ea898cecccfbfb1658e186cdc85"
+    },
+    "emil-design-eng": {
+      "source": "emilkowalski/skills",
+      "sourceType": "github",
+      "skillPath": "skills/emil-design-eng/SKILL.md",
+      "computedHash": "8bdf9e4e6de7a4969147bf4828a4ad2c5aacd9fba4b690b250a85e0467ca387d"
     },
     "energy-procurement": {
       "source": "affaan-m/ecc",
@@ -3049,6 +3079,12 @@
       "skillPath": "skills/full-audit/SKILL.md",
       "computedHash": "3a537d3bac7d7dd073dfcea6c8e541e8fbaf611e4cfd6b06cf813bf958ce2697"
     },
+    "full-output-enforcement": {
+      "source": "Leonxlnx/taste-skill",
+      "sourceType": "github",
+      "skillPath": "skills/output-skill/SKILL.md",
+      "computedHash": "26bd29ce4c5e02c7666b2d503609bf466bd32290822e91f0e984147048dbb924"
+    },
     "fullstack-guardian": {
       "source": "jeffallan/claude-skills",
       "sourceType": "github",
@@ -3301,6 +3337,12 @@
       "skillPath": "skills/google-workspace-ops/SKILL.md",
       "computedHash": "bfd2c0fb3baac4fa06e07851234356033b700dd76719fab0f8cd2db7a2f0a7a6"
     },
+    "gpt-taste": {
+      "source": "Leonxlnx/taste-skill",
+      "sourceType": "github",
+      "skillPath": "skills/gpt-tasteskill/SKILL.md",
+      "computedHash": "cc8f0c601d8240a124e1d11634351a2be7b8a72fd807c75e5b6bf7afcd5ddee0"
+    },
     "graph-evolution": {
       "source": "trailofbits/skills",
       "sourceType": "github",
@@ -3396,6 +3438,12 @@
       "sourceType": "github",
       "skillPath": "skills/hexagonal-architecture/SKILL.md",
       "computedHash": "079f825ab203e42b8a5acbefb2ba50536718e1ec31d100b9521660ba0af749dd"
+    },
+    "high-end-visual-design": {
+      "source": "Leonxlnx/taste-skill",
+      "sourceType": "github",
+      "skillPath": "skills/soft-skill/SKILL.md",
+      "computedHash": "7db385e4c5370e5a7fca9704a1361b056e4504ea6a03924bb86f33a4f00b5c73"
     },
     "hipaa-compliance": {
       "source": "affaan-m/ecc",
@@ -3511,6 +3559,24 @@
       "skillPath": "skills/image/SKILL.md",
       "computedHash": "e4b5511566d08a79f6f5fd26319eaaac0e18e1e238848c5a3fb2e9839e306ebe"
     },
+    "image-to-code": {
+      "source": "Leonxlnx/taste-skill",
+      "sourceType": "github",
+      "skillPath": "skills/image-to-code-skill/SKILL.md",
+      "computedHash": "58517b03b2a01f4c9ba65861559d03df931400871bbc200978c975b24bb92c73"
+    },
+    "imagegen-frontend-mobile": {
+      "source": "Leonxlnx/taste-skill",
+      "sourceType": "github",
+      "skillPath": "skills/imagegen-frontend-mobile/SKILL.md",
+      "computedHash": "9ab7f4f6ce66a3cff02bbf5894e5bd5af50bf5d6ef0adffdc88e8fab772fe44f"
+    },
+    "imagegen-frontend-web": {
+      "source": "Leonxlnx/taste-skill",
+      "sourceType": "github",
+      "skillPath": "skills/imagegen-frontend-web/SKILL.md",
+      "computedHash": "65f5ae59fa317567809438310b1c54f78cd133426deb43e4d3d4ca4c8f541628"
+    },
     "imaging-data-commons": {
       "source": "K-Dense-AI/claude-scientific-skills",
       "sourceType": "github",
@@ -3522,6 +3588,12 @@
       "sourceType": "github",
       "skillPath": "plugins/sdd/skills/implement-task/SKILL.md",
       "computedHash": "6054cf3e2519decb3dc654e4f5a0b3d9139feb8cb550df0de290d11acd18502d"
+    },
+    "industrial-brutalist-ui": {
+      "source": "Leonxlnx/taste-skill",
+      "sourceType": "github",
+      "skillPath": "skills/brutalist-skill/SKILL.md",
+      "computedHash": "8fc355c4aadb7d29c53ca28bc41be3cd6eea765d121e3737c4dc2d0f90a8effa"
     },
     "infographics": {
       "source": "K-Dense-AI/claude-scientific-skills",
@@ -3738,6 +3810,12 @@
       "sourceType": "github",
       "skillPath": "plugins/kaizen/skills/kaizen/SKILL.md",
       "computedHash": "ae364846e6517ea5a9c56a690c6ca8b4662964f881a93f35225418d25634e098"
+    },
+    "karpathy-guidelines": {
+      "source": "forrestchang/andrej-karpathy-skills",
+      "sourceType": "github",
+      "skillPath": "skills/karpathy-guidelines/SKILL.md",
+      "computedHash": "41e8ca055bbde13d240776a14a076a59614057200340c243130a76ba4e64cac8"
     },
     "kg-extract": {
       "source": "ruvnet/claude-flow",
@@ -4176,6 +4254,12 @@
       "sourceType": "github",
       "skillPath": "plugins/ruflo-migrations/skills/migrate-validate/SKILL.md",
       "computedHash": "1d43e5942c21e7540776bac0169562a804e578783a378f3124a33a2f456c9d1a"
+    },
+    "minimalist-ui": {
+      "source": "Leonxlnx/taste-skill",
+      "sourceType": "github",
+      "skillPath": "skills/minimalist-skill/SKILL.md",
+      "computedHash": "08873a3131d3be27bef9bf3304b310b16b44ca6e3561aebe532797be3443f6bd"
     },
     "ml-pipeline": {
       "source": "jeffallan/claude-skills",
@@ -5185,6 +5269,12 @@
       "skillPath": "skills/recursive-decision-ledger/SKILL.md",
       "computedHash": "d2364c7863de714247370d3c4cf4bc7455612d284a442eba14c202dd87befa7c"
     },
+    "redesign-existing-projects": {
+      "source": "Leonxlnx/taste-skill",
+      "sourceType": "github",
+      "skillPath": "skills/redesign-skill/SKILL.md",
+      "computedHash": "b405eee0e0e80fc243f731d9aa368bca307e356db7e6157d27101d369dac6726"
+    },
     "redis-patterns": {
       "source": "affaan-m/ecc",
       "sourceType": "github",
@@ -5292,6 +5382,12 @@
       "sourceType": "github",
       "skillPath": "skills/returns-reverse-logistics/SKILL.md",
       "computedHash": "9b339b6ff44d367675a0c20f0f8e973a98b278c3ec4e099543628c828f122369"
+    },
+    "review-animations": {
+      "source": "emilkowalski/skills",
+      "sourceType": "github",
+      "skillPath": "skills/review-animations/SKILL.md",
+      "computedHash": "ca04aaa0a815f05e0910ded8fedbfbdfe0acdec8f52dfbb88277890070d134d4"
     },
     "review-local-changes": {
       "source": "NeoLabHQ/context-engineering-kit",
@@ -5994,6 +6090,12 @@
       "sourceType": "github",
       "skillPath": "plugins/fpf/skills/status/SKILL.md",
       "computedHash": "836aed59b3371fcd2fcf0166bf63f0c912993d02687381e1ee6e7aa6e8c7503d"
+    },
+    "stitch-design-taste": {
+      "source": "Leonxlnx/taste-skill",
+      "sourceType": "github",
+      "skillPath": "skills/stitch-skill/SKILL.md",
+      "computedHash": "13322f38406cd3abf16ba45e35bdc9b18002d0153a79b4612b97aefc65d5a335"
     },
     "strategic-compact": {
       "source": "affaan-m/ecc",
